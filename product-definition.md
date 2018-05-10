@@ -110,7 +110,245 @@ Ref | Component | Presence | Location (page types) | Flexibility
 13 | Page last reviewed date | Optional | Standard, guide, silent node, news content | None
 15 | Cross-selling links. These are links to journeys that are not in the section navigation on this page (e.g. could be used as a ‘related links’ section). | Optional | Standard, guide, silent node | Between 1 and 5 links are supported. Consider style guide rules when creating. 
 
+## 7.2	Franchise landing page [Level 2]
 
+The franchise landing page helps customers easily browse and navigate to all content in the section. 
 
+Refer to the global elements section and table below for franchise landing page components.
 
+**Placeholder for wireframe**
+
+**Franchise landing page [Level 2]**
+
+Ref | Component | Presence | Flexibility
+--- | ------------- | ------------- | -------------
+16 | Promoted content (e.g. initiatives, customer stories, social media or consultations) | Required | Can be moved
+
+## 7.3	Topic index pages [Level 3]
+
+Topic index pages organise and display groups of similarly themed content. They can link in all directions (to sibling, child, or parent pages). 
+
+Note that there can be multiple levels of index pages if the content requires it. There are no specific component requirements for topic index pages. 
+
+Refer to the global elements section for the components in the wireframe below. 
+
+**Placeholder for wireframe**
+
+**Topic page [Level 3]**
+
+## 7.4	Content pages [Level 4]
+
+Content pages (depending on page type) generally include 3 columns:
+ *	left navigation column
+ *	middle content column
+ *	right ‘asides’ column.
+
+Franchise websites can utilise different components to configure different content page types. They are:
+ 1.	Standard page
+ 2.	Guide page
+ 3.	Service pages (for online forms)
+ 4.	Silent node page
+ 5.	2-column and 1-column application page
+ 6.	News/events index pages
+ 7.	News content page.
+
+### 7.4.1	Standard page
+
+There are no specific component requirements for a standard content page. 
+
+Refer to the global elements section for the components in the wireframe below.
+
+**Placeholder for wireframe**
+
+**Standard page [Level 4]**
+
+### 7.4.2 Guide pages
+
+Guide pages serve the same function as a standard page but are used for larger topics that require multiple pages to explain the content. They generally contain between 3 and 9 pages under a unifying article title. 
+
+Guides feature a table of contents (tertiary navigation) and ‘next’ and ‘previous’ links that allow customers to progress through the different pages. 
+
+Refer to the global elements section and table below for guide page components.
+
+**Placeholder for wireframe**
+
+**Guide page [Level 4]**
+
+Ref | Component | Presence | Flexibility
+--- | ------------- | ------------- | -------------
+14 | Process menu (appears in the section navigation of guide pages as a nested menu) | Required | None
+17 | Table of contents | Required | 
+18 | Previous/next | Required | 
+
+### 7.4.3	Service page (online forms)
+
+Service pages are used for all integrated services, web applications and online forms. All online forms should be developed in HTML as it is the only format that meets the accessibility requirements (and will work on any device). Other formats can be provided to supplement the HTML form. 
+
+For more information, contact OSSSIO by emailing oss.products@dsiti.qld.gov.au or see the CUE standard [(Module 4: Online forms)](https://www.forgov.qld.gov.au/cue-module4-online-forms).
+
+Refer to the global elements section and table below for service page components.
+
+**Placeholder for wireframe**
+
+**Service page [Level 4]**
+
+Ref | Component | Presence | Flexibility
+--- | ------------- | ------------- | -------------
+19 | Introduction (to explain the purpose of the service—a ‘read more’ link can be used, if required.) | Required | None
+20 | Error message summary block (will only appear if the form cannot be processed due to input or server-side errors) | Required | None
+21 | Assistance popup or hints (will appear when it has been identified that the customer may need help) | Optional | Depends on audience requirements
+22 | Form elements (refer to the pattern library on [GitHub](https://github.com/qld-gov-au/pattern-library/blob/master/source/patterns-for-web-forms.md) for details of different user interface elements) (To gain access to the pattern library, create a Github account and then contact OSSSIO.) | Required | None. Before introducing new user interface elements, please contact OSSSIO (email).
+23 | Actions | Required | None
+24 | Whole-of-government shopping cart | Required if service involves payments | None
+25 | Login | Optional | Markup, presentation and behaviour can be modified depending on the type of account. Please contact OSSSIO ([email](oss.products@dsiti.qld.gov.au)) to discuss your requirements.
+26 | Accepted payment types | Required if service involves payments | Appearance must be identical but location can be moved lower within asides column.
+27 | Progress bar to communicate the current stage of a multistep process **NB:** this component is currently under construction. Therefore the location and presentation is yet to be finalised. *Until finalised, the component is optional. | Required* if a multistep form | Yet to be determined
+
+### 7.4.4 Silent node
+
+A silent node is a ‘hidden’ content page in that it is not in the navigation or sitemap. It is a page that supports another page and is not relevant to other content. 
+
+For example, silent nodes can be used for customer stories. Customer stories are initially ‘asides’ on a related content page. At the bottom of the aside, there is a link to 'read more' that takes you to a page with the complete article. The article is a silent node page. 
+
+There are no specific component requirements for silent node pages. Refer to the global elements section for the components in the wireframe below.
+
+**Placeholder for wireframe**
+
+**Silent node page [Level 4]**
+
+### 7.4.5	2-column or 1-column application page
+
+A 2-column or 1-column application page can be used for specialised content that will not fit within a regular 3-column content page. However, agencies should minimise their use of this page format as they will need to consider how the wide column format displays on small and medium devices. 
+
+**Before** using one of these page types, please contact OSSSIO by emailing oss.products@dsiti.qld.gov.au. 
+
+There are no specific component requirements for these pages. Refer to the global elements section for the components in the wireframe below.
+
+**Placeholder for wireframe**
+
+**2-column application page**
+
+**Placeholder for wireframe**
+
+**1-column application page**
+
+### 7.4.6	News or event index pages
+
+News or event index pages are specially formulated to display a list of news articles or event listings. Refer to the global elements section and table below for news or event index page components.
+
+**Placeholder for wireframe**
+
+**News or event index page**
+
+Ref | Component | Presence | Flexibility
+--- | ------------- | ------------- | -------------
+28 | Featured news or events items. Events should display in chronological order grouped by year and month. Events should be removed and moved to the archive list, after they have expired (recommend within one week) | Required | None. A maximum of 5+/- 2 news items featured.
+29 | Links to archived items in reverse-chronological order grouped by year and month | Required | None
+
+### 7.4.7	News content page
+
+Refer to the global elements section and table below for news content page components.
+
+**Placeholder for wireframe**
+
+**News content page**
+
+Ref | Component | Presence | Flexibility
+--- | ------------- | ------------- | -------------
+30 | Posted date for the news item | Required | None
+31 | News article content | Required | None
+
+# 7.5	Aggregation page 
+
+The aggregation page can be used to aggregate or promote content and topics across multiple sections of a franchise or multiple franchises (i.e. content published to www.qld.gov.au).   
+
+**Placeholder for wireframe**
+
+Ref | Component | Presence | Flexibility
+--- | ------------- | ------------- | -------------
+32 | Hero Image  | Required | None
+33 | Page title and subtitle | Required | Subtitle is optional
+34 | Cards | Required | 1 - 6 cards
+35 | Additional information panels  | Optional | Where information that would be in the aside goes 
+
+**Implementation notes**
+
+* Hero image (32)
+	+ Image size: 1312 x 361 pixels. 
+* Page title & subtitle (33)
+	+ This should be descriptive of the purpose of the page (e.g. ‘Protecting the Great Barrier Reef’ is better than ‘Great Barrier Reef’ because it shows exactly what the page is about – and clarifies that it doesn’t include tourism etc. 
+	+ A subtitle about the page is optional. It should only be used to further explain the page purpose, if necessary. 
+	+ This subtitle **will appear in search results** so make sure that it adds extra information about the page that will help the user.
+*	Cards
+	+	Image size: 322 x 492 px
+	+	A maximum of 6 cards is recommended for a comfortable scroll length on mobile devices.
+	+	The cards will all be the same height on desktop but will reduce to the minimum size that fits their respective content when displayed on mobile
+	+	Each card must have a 322 x 492 px thumbnail image or an embded video of the same dimensions. Do not add a play icon** to your thumbnail image if the video is not going to play immedaitely. Embedded videos must have a full screen option available.
+	+	Each card must have a heading.
+	+	Each card can either have: Text with no links or button; Text with a call to action button; Intro text with 4 links. The fifth ‘more’ link (on other index pages) is not available for this model because sub-pages don’t exist in the model.
+	+	Ensure that the heading, text/links, and button have different text and aren’t repetitive.
+	+	The card size is constrained so the text will need to be succinct.
+*	Additional information panels (35)
+	+	These 3 panels are optional and should be used for additional information or things that might normally be put in an aside (the right-hand boxes). Social media (e.g. Facebook, Twitter, Instagram); Other pages (i.e. use them to display ‘Popular topics’ or other content like ‘About us’ or ‘Useful resources’.); News (i.e. a news story summary in each panel);	A mix of the above – 1 social media panel, 1 panel listing news item links, 1 panel listing popular pages.
+*	Navigation elements
+	+	The page needs to include breadcrumbs.
+
+**Future use of the page model**
+
+*	The User interface and mobile apps community of practice (UI CoP) will review the page model’s use in January 2018 and discuss proposed changes. 
+	+	Changes agreed by the group will be made to the template and these instructions. 
+	+	Urgent changes can be made before then but a review of suggestions and non-urgent changes will be done in early 2018.) 
+	+	Please contact oss.products@dsiti.qld.gov.au with change requests or to join the UI CoP. 
+* The UI CoP will review the page model and the register on an ongoing basis to ensure that page models with an end date (i.e. tied to short-term campaigns) are decommissioned.
+
+**7.5	Advanced franchise landing page [Level 2]**
+
+The advanced franchise landing page helps customers browse and navigate to promoted content in the section with a specific focus on campaign content. The child page links, in this instance headings only, are the only manadatory component of this page. All other elements are optional and can be displayed in any order a franchise determines suitable. 
+
+Refer to the global elements section and table below for franchise landing page components.
+
+**Placeholder for wireframe**
+
+**Advanced franchise landing pagee**
+
+Ref | Component | Presence | Flexibility
+--- | ------------- | ------------- | -------------
+36 | Franchise finder  | Optional | Can be moved
+37 | Links list  | Optional | Can be moved
+38 | Promotional carousel | Optional | Can be moved
+39 | Promotional feature | Optional | Can be moved
+40 | Franchise index | Required | Can be moved
+
+**Implementation notes**
+
+* Franchise finder
+	+ This search is limited to the subject area within the franchise
+* Service list
+	+ This is a list of high value links to items within the subject area
+* Promotional carousel
+	+ This is a carousel that contains up to 5 slides
+	+ Slide image dimensions: 600 x 373 px
+	+ This carousel must have play or pause controls to meet our accessibility obligations.
+*	Promotional feature
+	+ Feature image dimensions: 444 x 275 px
+*	Franchise index 
+	+ Thumbnail image dimensions: 75 x 75 px
+
+**Future use of the page model**
+
+* The User interface (UI CoP) will review the page model’s use in January 2018 and discuss proposed changes. 
+	+	Changes agreed by the group will be made to the template and these instructions. 
+	+	Urgent changes can be made before then but a review of suggestions and non-urgent changes will be done in early 2018.) 
+	+	Please contact oss.products@dsiti.qld.gov.au with change requests or to join the UI CoP. 
+* The UI CoP will review the page model and the register on an ongoing basis to ensure that page models with an end date (i.e. tied to short-term campaigns) are decommissioned.
+
+# Additional components
+
+## 7.6	News/feature item
+
+*	Appears in the main content panel or in the right-hand panel, as an aside
+*	Heading less than 33 characters (including spaces)
+*	Body text between 20 and 40 words
+*	Link to the full story 
+*	Image …
 
