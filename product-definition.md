@@ -352,3 +352,141 @@ Ref | Component | Presence | Flexibility
 *	Link to the full story 
 *	Image …
 
+**Placeholder for link to example**
+
+## 7.7 Break-out box
+
+*	Draws the audience’s attention to a key message 
+*	Contains all of the information (rather than linking off to another page for more details) 
+*	Heading less than 33 characters (including spaces) 
+*	Body text less than 100 words
+
+**Placeholder for link to example**
+
+## 7.8 Grab/standfirst paragraph 
+
+*	Also draws the audience’s attention to a key message
+*	Between 10 and 30 words
+*	There can be multiple ‘grabs’ on a single page 
+
+**Placeholder for link to example**
+
+## 7.9	Testimonial 
+
+*	Heading—person’s first name and suburb (e.g. Bill, Toowong)
+*	Body less than 70 words (the shorter, the better)
+
+**Placeholder for link to example**
+
+## 7.10	Pull quote 
+
+*	Need to grab the reader and entice them to read more 
+*	Should be short (less than 20 words)
+*	Contains quotation marks
+*	Must be from page content
+
+**Placeholder for link to example**
+
+# 8.0 Photographic images 
+
+## 8.1	Image optimisation
+*	Crop images to the appropriate size that will be used on the site. Some images can be resized if research indicates that it would benefit the audience. For example, the road signs on the [Transport and Motoring franchise](https://www.qld.gov.au/transport/conditions/disasters/signs) are resized so the proportions are the same as the actual signs. Contact OSSSIO by emailing oss.products@dsiti.qld.gov.au for assistance.
+*	Preserve the aspect ratio—don’t stretch or squeeze the image.
+*	Set the image resolution to 72 DPI.
+*	At onscreen resolution, is the subject of the image clear?
+*	Set the quality to around 80% (for jpg compression).
+*	Save as a jpg or png.
+*	Don’t mirror (flip) images for aesthetic reasons.
+*	For naming convention guidelines, refer to the URL and filename design guidelines section.
+
+## 8.2	Suitability
+
+Images must be relevant to the content and where practical, taken in Queensland. Consider the following:
+
+*	Is the steering wheel on the correct side of the car?
+*	Are things like street signs, service uniforms or clothing correct for Queensland?
+*	Are landmarks relevant to the content? For example, don’t use a photo of a South East Queensland river on a page about North Queensland.
+*	Are there any cultural awareness issues regarding the subject matter of the photo?
+*	If the picture shows people working, does it include the appropriate personal protective equipment to comply with health and safety laws?
+*	Does the photo contain number plates or other personally identifying details?
+*	How is the image being used? For example, don’t create false banners (an image that fits the width of the content column before Heading 1) or false bottoms (an image that, through its width and placement on the page, implies the end of an article). 
+*	Does the image look professional and appropriate (e.g. avoid clipart)?
+*	Has consent been obtained and recorded for all of the people in the image? 
+
+## 8.3	Caption (for non-decorative images or photos) 
+
+*	Should be sentence case and have no closing punctuation. 
+*	Only requires ‘alt text’ if the caption doesn’t convey some specific detail apparent to sighted users. 
+
+**Placeholder for link to example**
+
+## 8.4	Sourcing images
+All images should be:
+*	owned by the agency
+*	in the public domain or
+*	suitably licenced (check for a Creative Commons licence). 
+
+Refer to [Sourcing images info sheet](https://govdex.gov.au/?os_destination=/confluence%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DStyles%2Band%2Bstandards&os_destination=%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DStyles%2Band%2Bstandards&permissionViolation=true) on Govdex to find tips on how to source free images. Contact OSSSIO by emailing oss.products@dsiti.qld.gov.au to arrange access to Govdex.
+
+Main image sourcing considerations: 
+*	Is the image royalty free?
+*	Has credit been given if necessary? See the section on image credits for more detail.
+*	Is there a signed consent (release) form from everyone in the photo? 
+
+## 8.5	Image credits
+
+Use the appropriate style from the list below. Note: there is no closing punctuation.
+
+**Examples**
+
+© Tourism Queensland
+© Brisbane Marketing. Photo by P. Topler
+© iStockphoto.com. Photo by Michael Phillips
+© Ray Cash Photography
+© Sarah Elliott
+
+**Placeholder for link to example**
+
+To enable the credit overlay icon, refer to the code pattern for images with credits in the [Govdex pattern library](https://govdex.gov.au/?os_destination=/confluence%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DPattern%2Blibrary&os_destination=%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DPattern%2Blibrary&permissionViolation=true) (located under Figures (images, diagrams, captions).
+
+Contact OSSSIO by emailing oss.products@dsiti.qld.gov.au to arrange access to Govdex.
+
+### 8.5.1	External non-commissioned images
+
+If an image is supplied free by an external agency or individual, they need to provide the copyright information.
+
+### 8.5.2	Queensland Government images
+
+If an image is taken by a Queensland Government employee (in the course of their work) or a freelance photographer commissioned by a government agency, copyright belongs to the State of Queensland and the statement in the website footer is sufficient. The photographer is not credited in this instance. 
+
+## 8.6 Image types
+
+### 8.6.1 Index page thumbnail
+
+Thumbnails appear on franchise landing and topic index pages—for example, [Health and wellbeing] (https://www.qld.gov.au/health) (franchise) or [Screening and health checks] (https://www.qld.gov.au/health/conditions/screening) (topic).
+
+Index page thumbnails have the following specifications: 
+
+*	Alt text and caption—no
+*	Moral rights—no
+*	The image must not be reused on the same page
+*	Dimensions—75 x 75 pixels
+
+**Placeholder for link to example**
+
+### 8.6.2 Wide angle aside
+
+Wide angle aside images have the following specifications:
+
+*	Alt text and caption—yes
+*	Moral rights—only if taken by someone not working for the Queensland Government
+*	Dimensions—284 x 113 pixels (**recommended**)
+
+**Placeholder for link to example**
+
+*	Dimensions—284 x 159 pixels (**alternative**; only to be used if the recommended dimensions distort the source photo)
+
+**Placeholder for link to example**
+
+### 8.6.3	Photo gallery thumbnail
+
