@@ -88,6 +88,8 @@ To ensure that Queensland Government franchise websites have a consistent functi
 
 Some elements are ‘global’ because they appear across all page types (refer to the wireframe below). Other components are ‘global’ in that they can appear across multiple page types. Those elements are referenced in the component table below the wireframe. 
 
+![wireframe-global-elements](/images/wireframe-global-elements.png)
+
 **Placeholder for wireframe**
 
 **Global elements**
@@ -463,7 +465,7 @@ If an image is taken by a Queensland Government employee (in the course of their
 
 ### 8.6.1 Index page thumbnail
 
-Thumbnails appear on franchise landing and topic index pages—for example, [Health and wellbeing] (https://www.qld.gov.au/health) (franchise) or [Screening and health checks] (https://www.qld.gov.au/health/conditions/screening) (topic).
+Thumbnails appear on franchise landing and topic index pages—for example, [Health and wellbeing] (https://www.qld.gov.au/health) (franchise) or [Screening and health checks](https://www.qld.gov.au/health/conditions/screening) (topic).
 
 Index page thumbnails have the following specifications: 
 
@@ -510,7 +512,7 @@ Photo gallery light-box images have the following specifications:
 
 **Placeholder for link to example**
 
-Refer to the [Pattern library] (https://govdex.gov.au/?os_destination=/confluence%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DPattern%2Blibrary&os_destination=%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DPattern%2Blibrary&permissionViolation=true) on Govdex for advice and examples of pages that contain light boxes. Contact OSSSIO by emailing oss.products@dsiti.qld.gov.au to arrange access to Govdex.
+Refer to the [Pattern library](https://govdex.gov.au/?os_destination=/confluence%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DPattern%2Blibrary&os_destination=%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DPattern%2Blibrary&permissionViolation=true) on Govdex for advice and examples of pages that contain light boxes. Contact OSSSIO by emailing oss.products@dsiti.qld.gov.au to arrange access to Govdex.
 
 ### 8.6.5 Cut-in image (landscape)
 
@@ -556,7 +558,7 @@ News images:
 *	dimensions are 284 x 113px (recommended) or 284 x 159px.
 
 ### 8.6.10	Diagrams and figures
-Diagrams and figures require different formatting to other images. Refer to the [Pattern library] (https://govdex.gov.au/?os_destination=/confluence%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DPattern%2Blibrary&os_destination=%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DPattern%2Blibrary&permissionViolation=true) on Govdex for formatting details. Contact OSSSIO by emailing oss.products@dsiti.qld.gov.au to arrange access to Govdex.
+Diagrams and figures require different formatting to other images. Refer to the [Pattern library](https://govdex.gov.au/?os_destination=/confluence%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DPattern%2Blibrary&os_destination=%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DPattern%2Blibrary&permissionViolation=true) on Govdex for formatting details. Contact OSSSIO by emailing oss.products@dsiti.qld.gov.au to arrange access to Govdex.
 
 # 9	Metadata
 
