@@ -560,7 +560,7 @@ Diagrams and figures require different formatting to other images. Refer to the 
 
 # 9	Metadata
 
-ueensland Government websites use metadata to: 
+Queensland Government websites use metadata to: 
 
 *	Improve search engine optimisation rankings
 *	Group and display similar content (i.e. adding a specific metadata tag to an event or news item can trigger the item to appear on content pages with the same tag) 
