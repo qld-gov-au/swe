@@ -433,7 +433,7 @@ Main image sourcing considerations:
 *	Has credit been given if necessary? See the section on image credits for more detail.
 *	Is there a signed consent (release) form from everyone in the photo? 
 
-## 8.5	Image credits
+## 8.5 Image credits
 
 Use the appropriate style from the list below. Note: there is no closing punctuation.
 
@@ -451,11 +451,11 @@ To enable the credit overlay icon, refer to the code pattern for images with cre
 
 Contact OSSSIO by emailing oss.products@dsiti.qld.gov.au to arrange access to Govdex.
 
-### 8.5.1	External non-commissioned images
+### 8.5.1 External non-commissioned images
 
 If an image is supplied free by an external agency or individual, they need to provide the copyright information.
 
-### 8.5.2	Queensland Government images
+### 8.5.2 Queensland Government images
 
 If an image is taken by a Queensland Government employee (in the course of their work) or a freelance photographer commissioned by a government agency, copyright belongs to the State of Queensland and the statement in the website footer is sufficient. The photographer is not credited in this instance. 
 
@@ -488,5 +488,89 @@ Wide angle aside images have the following specifications:
 
 **Placeholder for link to example**
 
-### 8.6.3	Photo gallery thumbnail
+### 8.6.3 Photo gallery thumbnail
 
+Photo gallery thumbnails have the following specifications:
+
+*	Alt text and caption—no
+*	Moral rights—no
+*	Dimensions—100 x 100 pixels
+
+**Placeholder for link to example**
+
+### 8.6.4 Photo gallery light-box image
+
+Photo gallery light-box images have the following specifications:
+
+*	Alt text and caption—yes
+*	Moral rights—only if taken by someone not working for the Queensland Government
+*	Dimensions:
+	*	Minimum—the longest side should be at least 600 pixels
+	*	Maximum—1680 x 1050 pixels
+
+**Placeholder for link to example**
+
+Refer to the [Pattern library] (https://govdex.gov.au/?os_destination=/confluence%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DPattern%2Blibrary&os_destination=%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DPattern%2Blibrary&permissionViolation=true) on Govdex for advice and examples of pages that contain light boxes. Contact OSSSIO by emailing oss.products@dsiti.qld.gov.au to arrange access to Govdex.
+
+### 8.6.5 Cut-in image (landscape)
+
+*	Alt text and caption—yes
+*	Moral rights—only if taken by someone not working for the Queensland Government
+*	Dimensions—374 x 187
+
+**Placeholder for link to example**
+
+### 8.6.6 Cut-in image (portrait)
+
+*	Alt text and caption—yes
+*	Moral rights—only if taken by someone not working for the Queensland Government
+*	Dimensions—284 x 379
+
+**Placeholder for link to example**
+
+### 8.6.7	Hero feature image
+
+These are the full-screen feature images on www.qld.gov.au. 
+
+*	Alt text—yes
+*	Moral rights—only if taken by someone not working for the Queensland Government
+*	Dimensions—1600 x 729
+*	Refer to the Aggregation page for its hero feature image dimensions. 
+
+### 8.6.8	Initiatives feature image
+
+An initiatives feature is one of the smaller images on www.qld.gov.au.
+
+*	Alt text—yes
+*	Moral rights—only if taken by someone not working for the Queensland Government
+*	Dimensions—291 x 197
+
+### 8.6.9	News feature image
+
+News images:
+
+*	should not contain text (where at all possible) as they are used to humanise the content. Images with text can look like advertising and may be ignored by the audience.
+*	should be supplied as high quality jpeg or tiff files with a minimum of 72 dpi (150 or 300 dpi is preferable). 
+*	need to be 1200px wide (or larger) so they can be scaled or cropped to fit the layout and with a landscape orientation. 
+*	should be supplied in eps format or Adobe Illustrator (Ai) format when using logos, name styles or campaign graphics. Alternatively, a high resolution pdf or tiff file should be supplied.
+*	dimensions are 284 x 113px (recommended) or 284 x 159px.
+
+### 8.6.10	Diagrams and figures
+Diagrams and figures require different formatting to other images. Refer to the [Pattern library] (https://govdex.gov.au/?os_destination=/confluence%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DPattern%2Blibrary&os_destination=%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DPattern%2Blibrary&permissionViolation=true) on Govdex for formatting details. Contact OSSSIO by emailing oss.products@dsiti.qld.gov.au to arrange access to Govdex.
+
+# 9	Metadata
+
+ueensland Government websites use metadata to: 
+
+*	Improve search engine optimisation rankings
+*	Group and display similar content (i.e. adding a specific metadata tag to an event or news item can trigger the item to appear on content pages with the same tag) 
+
+Refer to [Metadata in the template](https://govdex.gov.au/?os_destination=/confluence%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DMetadata%2Bin%2Bthe%2Btemplate&os_destination=%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DMetadata%2Bin%2Bthe%2Btemplate&permissionViolation=true) on Govdex for more information. Contact OSSSIO by emailing oss.products@dsiti.qld.gov.au to arrange access to Govdex.  
+
+# 10	How OSSSIO can help
+
+*	Email oss.products@dsiti.qld.gov.au to see how OSSSIO can help you in the following areas:
+	*	Access to the Customer Research Lab
+	*	Google Analytics and SEO advice
+	*	Access to GOVDEX
+	*	Joinging the User interface community of practice (UI CoP)Contact OSSSIO by emailing oss.products@dsiti.qld.gov.au to arrange access to Govdex.
