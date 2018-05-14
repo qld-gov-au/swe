@@ -88,9 +88,7 @@ To ensure that Queensland Government franchise websites have a consistent functi
 
 Some elements are ‘global’ because they appear across all page types (refer to the wireframe below). Other components are ‘global’ in that they can appear across multiple page types. Those elements are referenced in the component table below the wireframe. 
 
-<img src="/swe/swe-product-definition-images/wireframe-global-elements.png" alt="Global Elements Wireframe">
-
-**Placeholder for wireframe**
+![wireframe-global-elements](swe-product-definition-images/wireframe-global-elements.png)
 
 **Global elements**
 
@@ -118,7 +116,7 @@ The franchise landing page helps customers easily browse and navigate to all con
 
 Refer to the global elements section and table below for franchise landing page components.
 
-**Placeholder for wireframe**
+![wireframe-global-elements](swe-product-definition-images/wireframe-franchise-landing-page.png)
 
 **Franchise landing page [Level 2]**
 
@@ -134,7 +132,7 @@ Note that there can be multiple levels of index pages if the content requires it
 
 Refer to the global elements section for the components in the wireframe below. 
 
-**Placeholder for wireframe**
+![wireframe-global-elements](swe-product-definition-images/wireframe-topic-page.png)
 
 **Topic page [Level 3]**
 
@@ -160,7 +158,7 @@ There are no specific component requirements for a standard content page.
 
 Refer to the global elements section for the components in the wireframe below.
 
-**Placeholder for wireframe**
+![wireframe-global-elements](swe-product-definition-images/wireframe-standard-page.png)
 
 **Standard page [Level 4]**
 
@@ -172,7 +170,7 @@ Guides feature a table of contents (tertiary navigation) and ‘next’ and ‘p
 
 Refer to the global elements section and table below for guide page components.
 
-**Placeholder for wireframe**
+![wireframe-global-elements](swe-product-definition-images/wireframe-guide-page.png)
 
 **Guide page [Level 4]**
 
@@ -190,7 +188,7 @@ For more information, contact OSSSIO by emailing oss.products@dsiti.qld.gov.au o
 
 Refer to the global elements section and table below for service page components.
 
-**Placeholder for wireframe**
+![wireframe-global-elements](swe-product-definition-images/wireframe-service-page.png)
 
 **Service page [Level 4]**
 
@@ -214,7 +212,7 @@ For example, silent nodes can be used for customer stories. Customer stories are
 
 There are no specific component requirements for silent node pages. Refer to the global elements section for the components in the wireframe below.
 
-**Placeholder for wireframe**
+![wireframe-global-elements](swe-product-definition-images/wireframe-silent-node-page.png)
 
 **Silent node page [Level 4]**
 
@@ -226,20 +224,17 @@ A 2-column or 1-column application page can be used for specialised content that
 
 There are no specific component requirements for these pages. Refer to the global elements section for the components in the wireframe below.
 
-**Placeholder for wireframe**
-
+![wireframe-global-elements](swe-product-definition-images/wireframe-2-column-application-page.png)
 **2-column application page**
 
-**Placeholder for wireframe**
-
+![wireframe-global-elements](swe-product-definition-images/wireframe-1-column-application-page.png)
 **1-column application page**
 
 ### 7.4.6	News or event index pages
 
 News or event index pages are specially formulated to display a list of news articles or event listings. Refer to the global elements section and table below for news or event index page components.
 
-**Placeholder for wireframe**
-
+![wireframe-global-elements](swe-product-definition-images/wireframe-news-or-event-index-page.png)
 **News or event index page**
 
 Ref | Component | Presence | Flexibility
@@ -251,8 +246,7 @@ Ref | Component | Presence | Flexibility
 
 Refer to the global elements section and table below for news content page components.
 
-**Placeholder for wireframe**
-
+![wireframe-global-elements](swe-product-definition-images/wireframe-news-content-page.png)
 **News content page**
 
 Ref | Component | Presence | Flexibility
@@ -264,7 +258,7 @@ Ref | Component | Presence | Flexibility
 
 The aggregation page can be used to aggregate or promote content and topics across multiple sections of a franchise or multiple franchises (i.e. content published to www.qld.gov.au).   
 
-**Placeholder for wireframe**
+![wireframe-global-elements](swe-product-definition-images/wireframe-aggregate-page.png)
 
 Ref | Component | Presence | Flexibility
 --- | ------------- | ------------- | -------------
