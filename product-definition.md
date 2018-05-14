@@ -1,4 +1,5 @@
 # 1.0 Queensland Government Website Standards
+
 The Queensland Government’s [Information Standard 26 (IS26)](http://github.com) policy states that all public-facing Queensland Government websites must comply with the appropriate website standard.
 
 The standards are:
@@ -6,6 +7,7 @@ The standards are:
 * Agency Website Standard (also known as the Consistent User Experience or ‘CUE’).
 
 This document will assist agencies to understand and comply with the Franchise Website Standard.  
+
 ## 1.1	The Franchise Website Standard 
 
 The Franchise Website Standard helps agencies contribute to a franchise model for Queensland Government online service delivery. The objective of the model is to make it easier for customers to interact with the Queensland Government by organising all citizen-facing content in a customer-centric rather than agency-centric way. This means that each franchise delivers online content for a specific topic or audience.
@@ -82,6 +84,7 @@ Government franchise websites and online services, must use a responsive design 
 The Queensland Government Single Website Experience must use the same colours, borders, shadings, imagery and/or symbols on all pages to achieve a consistent look and feel. This means that only fonts and colours specified in the approved CSS should be used. To get the CSS details or request a variation to an element, contact OSSSIO by emailing oss.products@dsiti.qld.gov.au.
 
 # 7.0	Page models
+
 To ensure that Queensland Government franchise websites have a consistent functionality and appearance, a set of reusable and standardised components are used to form a templated page model. This section will look at the global components that can be used on multiple pages and will also consider various components required for each specific page type.
 
 ## 7.1 Global elements
@@ -225,9 +228,11 @@ A 2-column or 1-column application page can be used for specialised content that
 There are no specific component requirements for these pages. Refer to the global elements section for the components in the wireframe below.
 
 ![wireframe-global-elements](swe-product-definition-images/wireframe-2-column-application-page.png)
+
 **2-column application page**
 
 ![wireframe-global-elements](swe-product-definition-images/wireframe-1-column-application-page.png)
+
 **1-column application page**
 
 ### 7.4.6	News or event index pages
@@ -235,6 +240,7 @@ There are no specific component requirements for these pages. Refer to the globa
 News or event index pages are specially formulated to display a list of news articles or event listings. Refer to the global elements section and table below for news or event index page components.
 
 ![wireframe-global-elements](swe-product-definition-images/wireframe-news-or-event-index-page.png)
+
 **News or event index page**
 
 Ref | Component | Presence | Flexibility
@@ -247,6 +253,7 @@ Ref | Component | Presence | Flexibility
 Refer to the global elements section and table below for news content page components.
 
 ![wireframe-global-elements](swe-product-definition-images/wireframe-news-content-page.png)
+
 **News content page**
 
 Ref | Component | Presence | Flexibility
@@ -303,7 +310,7 @@ The advanced franchise landing page helps customers browse and navigate to promo
 
 Refer to the global elements section and table below for franchise landing page components.
 
-**Placeholder for wireframe**
+![wireframe-global-elements](swe-product-definition-images/wireframe-advanced-franchise-landing-page.png)
 
 **Advanced franchise landing pagee**
 
@@ -348,7 +355,7 @@ Ref | Component | Presence | Flexibility
 *	Link to the full story 
 *	Image …
 
-**Placeholder for link to example**
+![wireframe-global-elements](swe-product-definition-images/news-feature-item-example.png)
 
 ## 7.7 Break-out box
 
@@ -357,7 +364,7 @@ Ref | Component | Presence | Flexibility
 *	Heading less than 33 characters (including spaces) 
 *	Body text less than 100 words
 
-**Placeholder for link to example**
+![wireframe-global-elements](swe-product-definition-images/breakout-box-example.png)
 
 ## 7.8 Grab/standfirst paragraph 
 
@@ -365,14 +372,14 @@ Ref | Component | Presence | Flexibility
 *	Between 10 and 30 words
 *	There can be multiple ‘grabs’ on a single page 
 
-**Placeholder for link to example**
+![wireframe-global-elements](swe-product-definition-images/grab-standfirst-paragraph-example.png)
 
 ## 7.9	Testimonial 
 
 *	Heading—person’s first name and suburb (e.g. Bill, Toowong)
 *	Body less than 70 words (the shorter, the better)
 
-**Placeholder for link to example**
+![wireframe-global-elements](swe-product-definition-images/testimonial-example.png)
 
 ## 7.10	Pull quote 
 
@@ -381,7 +388,7 @@ Ref | Component | Presence | Flexibility
 *	Contains quotation marks
 *	Must be from page content
 
-**Placeholder for link to example**
+![wireframe-global-elements](swe-product-definition-images/pull-quote-example.png)
 
 # 8.0 Photographic images 
 
@@ -414,7 +421,7 @@ Images must be relevant to the content and where practical, taken in Queensland.
 *	Should be sentence case and have no closing punctuation. 
 *	Only requires ‘alt text’ if the caption doesn’t convey some specific detail apparent to sighted users. 
 
-**Placeholder for link to example**
+![wireframe-global-elements](swe-product-definition-images/caption-example.png)
 
 ## 8.4	Sourcing images
 All images should be:
@@ -441,7 +448,7 @@ Use the appropriate style from the list below. Note: there is no closing punctua
 © Ray Cash Photography
 © Sarah Elliott
 
-**Placeholder for link to example**
+![wireframe-global-elements](swe-product-definition-images/image-credits-example.png)
 
 To enable the credit overlay icon, refer to the code pattern for images with credits in the [Govdex pattern library](https://govdex.gov.au/?os_destination=/confluence%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DPattern%2Blibrary&os_destination=%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DPattern%2Blibrary&permissionViolation=true) (located under Figures (images, diagrams, captions).
 
@@ -468,7 +475,7 @@ Index page thumbnails have the following specifications:
 *	The image must not be reused on the same page
 *	Dimensions—75 x 75 pixels
 
-**Placeholder for link to example**
+![wireframe-global-elements](swe-product-definition-images/index-page-thumbnail-example.png)
 
 ### 8.6.2 Wide angle aside
 
@@ -478,11 +485,11 @@ Wide angle aside images have the following specifications:
 *	Moral rights—only if taken by someone not working for the Queensland Government
 *	Dimensions—284 x 113 pixels (**recommended**)
 
-**Placeholder for link to example**
+![wireframe-global-elements](swe-product-definition-images/wide-angle-aside-rec-example.png)
 
 *	Dimensions—284 x 159 pixels (**alternative**; only to be used if the recommended dimensions distort the source photo)
 
-**Placeholder for link to example**
+![wireframe-global-elements](swe-product-definition-images/wide-angle-aside-alter-example.png)
 
 ### 8.6.3 Photo gallery thumbnail
 
@@ -492,7 +499,7 @@ Photo gallery thumbnails have the following specifications:
 *	Moral rights—no
 *	Dimensions—100 x 100 pixels
 
-**Placeholder for link to example**
+![wireframe-global-elements](swe-product-definition-images/photo-gallery-thumbnail-example.png)
 
 ### 8.6.4 Photo gallery light-box image
 
@@ -504,7 +511,7 @@ Photo gallery light-box images have the following specifications:
 	*	Minimum—the longest side should be at least 600 pixels
 	*	Maximum—1680 x 1050 pixels
 
-**Placeholder for link to example**
+![wireframe-global-elements](swe-product-definition-images/photo-gallery-light-box-image-example.png)
 
 Refer to the [Pattern library](https://govdex.gov.au/?os_destination=/confluence%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DPattern%2Blibrary&os_destination=%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DPattern%2Blibrary&permissionViolation=true) on Govdex for advice and examples of pages that contain light boxes. Contact OSSSIO by emailing oss.products@dsiti.qld.gov.au to arrange access to Govdex.
 
@@ -514,7 +521,7 @@ Refer to the [Pattern library](https://govdex.gov.au/?os_destination=/confluence
 *	Moral rights—only if taken by someone not working for the Queensland Government
 *	Dimensions—374 x 187
 
-**Placeholder for link to example**
+![wireframe-global-elements](swe-product-definition-images/cut-in-image-(landscape)-example.png)
 
 ### 8.6.6 Cut-in image (portrait)
 
@@ -522,7 +529,7 @@ Refer to the [Pattern library](https://govdex.gov.au/?os_destination=/confluence
 *	Moral rights—only if taken by someone not working for the Queensland Government
 *	Dimensions—284 x 379
 
-**Placeholder for link to example**
+![wireframe-global-elements](swe-product-definition-images/cut-in-image-(portrait)-example.png)
 
 ### 8.6.7	Hero feature image
 
