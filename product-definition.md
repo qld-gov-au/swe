@@ -110,7 +110,7 @@ Some elements are ‘global’ because they appear across all page types (refer 
 
 ![wireframe-global-elements](swe-product-definition-images/wireframe-global-elements.png)
 
-**Global elements**
+**Global elements [Level 0]**
 
 Ref | Component | Presence | Location (page types) | Flexibility
 --- | ------------- | ------------- | ------------- | -------------
@@ -123,7 +123,6 @@ Ref | Component | Presence | Location (page types) | Flexibility
 ## 7.2	Franchise landing page [Level 2]
 
 The franchise landing page helps customers easily browse and navigate to all content in the section. 
-
 Refer to the global elements section and table below for franchise landing page components.
 
 ![wireframe-global-elements](swe-product-definition-images/wireframe-franchise-landing-page.png)
@@ -174,7 +173,6 @@ Franchise websites can utilise different components to configure different conte
 ### 7.4.1	Standard page
 
 There are no specific component requirements for a standard content page. 
-
 Refer to the global elements section for the components in the wireframe below.
 
 ![wireframe-global-elements](swe-product-definition-images/wireframe-standard-page.png)
@@ -210,7 +208,7 @@ Ref | Component | Presence | Flexibility
 
 Service pages are used for all integrated services, web applications and online forms. All online forms should be developed in HTML as it is the only format that meets the accessibility requirements (and will work on any device). Other formats can be provided to supplement the HTML form. 
 
-For more information, contact OSSSIO by emailing oss.products@dsiti.qld.gov.au or see the CUE standard [(Module 4: Online forms)](https://www.forgov.qld.gov.au/cue-module4-online-forms).
+Please refer to the [CUE Standard (Module 4: Online forms)](https://www.forgov.qld.gov.au/cue-module4-online-forms) for additional information. 
 
 Refer to the global elements section and table below for service page components.
 
@@ -245,8 +243,6 @@ There are no specific component requirements for silent node pages. Refer to the
 ### 7.4.5	2-column or 1-column application page
 
 A 2-column or 1-column application page can be used for specialised content that will not fit within a regular 3-column content page. However, agencies should minimise their use of this page format as they will need to consider how the wide column format displays on small and medium devices. 
-
-**Before** using one of these page types, please contact OSSSIO by emailing oss.products@dsiti.qld.gov.au. 
 
 There are no specific component requirements for these pages. Refer to the global elements section for the components in the wireframe below.
 
@@ -284,11 +280,22 @@ Ref | Component | Presence | Flexibility
 30 | Posted date for the news item | Required | None
 31 | News article content | Required | None
 
-# 7.5	Aggregation page 
+# 7.5	Rich landing page 
 
-The aggregation page can be used to aggregate or promote content and topics across multiple sections of a franchise or multiple franchises (i.e. content published to www.qld.gov.au).   
+The Rich landing page model can be used to: 
+*	aggregate content by a topic or audience type – from within a franchise or across franchises – to meet an established customer need.
+*	create more visually-driven landing page for promotional campaigns.
+
+Note:
+*	This page model isn't a replacement for a standard index page. This page model needs to appear in the information architecture and each section or 'card' takes you to a content page.
+*	This page can be treated as a parent page with new child pages. These pagesthat are not mapped into the information architecture. 
+
+Example: https://qld-gov-au.github.io/swe_template/pagemodels/aggregation.html 
+Source: https://github.com/qld-gov-au/swe_template/blob/master/src/examples/aggregation.html
 
 ![wireframe-global-elements](swe-product-definition-images/wireframe-aggregate-page.png)
+
+**Rich landing page model**
 
 Ref | Component | Presence | Flexibility
 --- | ------------- | ------------- | -------------
@@ -306,10 +313,10 @@ Ref | Component | Presence | Flexibility
 	+ A subtitle about the page is optional. It should only be used to further explain the page purpose, if necessary. 
 	+ This subtitle **will appear in search results** so make sure that it adds extra information about the page that will help the user.
 *	Cards
-	+	Image size: 322 x 492 px
+	+	Image size: 492 x 322 px
 	+	A maximum of 6 cards is recommended for a comfortable scroll length on mobile devices.
 	+	The cards will all be the same height on desktop but will reduce to the minimum size that fits their respective content when displayed on mobile
-	+	Each card must have a 322 x 492 px thumbnail image or an embded video of the same dimensions. Do not add a play icon** to your thumbnail image if the video is not going to play immedaitely. Embedded videos must have a full screen option available.
+	+	Each card must have a thumbnail image or an embded video of the same dimensions. **Do not add a play icon** to your thumbnail image if the video is not going to play immediately. Embedded videos must have a full screen option available.
 	+	Each card must have a heading.
 	+	Each card can either have: Text with no links or button; Text with a call to action button; Intro text with 4 links. The fifth ‘more’ link (on other index pages) is not available for this model because sub-pages don’t exist in the model.
 	+	Ensure that the heading, text/links, and button have different text and aren’t repetitive.
@@ -319,13 +326,9 @@ Ref | Component | Presence | Flexibility
 *	Navigation elements
 	+	The page needs to include breadcrumbs.
 
-**Future use of the page model**
+**Register page of page model**
 
-*	The User interface and mobile apps community of practice (UI CoP) will review the page model’s use in January 2018 and discuss proposed changes. 
-	+	Changes agreed by the group will be made to the template and these instructions. 
-	+	Urgent changes can be made before then but a review of suggestions and non-urgent changes will be done in early 2018.) 
-	+	Please contact oss.products@dsiti.qld.gov.au with change requests or to join the UI CoP. 
-* The UI CoP will review the page model and the register on an ongoing basis to ensure that page models with an end date (i.e. tied to short-term campaigns) are decommissioned.
+•	Register page model use at https://www.forgov.qld.gov.au/forum/topic/16001-aggregation-page-register 
 
 **7.5	Advanced franchise landing page [Level 2]**
 
@@ -365,7 +368,6 @@ Ref | Component | Presence | Flexibility
 * The User interface (UI CoP) will review the page model’s use in January 2018 and discuss proposed changes. 
 	+	Changes agreed by the group will be made to the template and these instructions. 
 	+	Urgent changes can be made before then but a review of suggestions and non-urgent changes will be done in early 2018.) 
-	+	Please contact oss.products@dsiti.qld.gov.au with change requests or to join the UI CoP. 
 * The UI CoP will review the page model and the register on an ongoing basis to ensure that page models with an end date (i.e. tied to short-term campaigns) are decommissioned.
 
 # Additional components
