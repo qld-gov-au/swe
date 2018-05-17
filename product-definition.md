@@ -58,7 +58,7 @@ Refer to [URL design guidelines](https://www.forgov.qld.gov.au/url-design-guidel
 Government franchise websites will use an information architecture (IA) similar to:
 
 Level | Webpage | Example
---- | ------------- | -------------
+------- | ------------- | -------------
 Level 0 ⬇️ | Home page | https://www.qld.gov.au/
 Level 1 ⬇️ | High-level audience pages | https://www.qld.gov.au/queenslanders
 Level 2 ⬇️| Franchise landing pages | https://www.qld.gov.au/transport
