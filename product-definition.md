@@ -181,6 +181,13 @@ Refer to the global elements section for the components in the wireframe below.
 
 **Standard page [Level 4]**
 
+Ref | Component | Presence | Location (page types) | Flexibility
+--- | ------------- | ------------- | ------------- | -------------
+12 | Main content (e.g. text, images with captions, pull-quotes, tables, embedded video) | Required | Standard, guide, silent node, 2-column, 1-column application, news content | Listed ‘content types’ are supported. If new content types are required, please consult with OSSSIO.
+13 | Cross-selling links. These are links to journeys that are not in the section navigation on this page (e.g. could be used as a ‘related links’ section). | Optional | Standard, guide, silent node | Between 1 and 5 links are supported. Consider style guide rules when creating. 
+14 | Page last updated date | Required | Standard, guide, silent node, news content | None
+15 | Page last reviewed date | Optional | Standard, guide, silent node, news content | None
+
 ### 7.4.2 Guide pages
 
 Guide pages serve the same function as a standard page but are used for larger topics that require multiple pages to explain the content. They generally contain between 3 and 9 pages under a unifying article title. 
