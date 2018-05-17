@@ -110,8 +110,7 @@ Some elements are ‘global’ because they appear across all page types (refer 
 
 ![wireframe-global-elements](swe-product-definition-images/wireframe-global-elements.png)
 
-<p align="center">Global elements [Level 0]</p>
-
+<p align="center">Global elements</p>
 
 Ref | Component | Presence | Location (page types) | Flexibility
 --- | ------------- | ------------- | ------------- | -------------
@@ -128,7 +127,7 @@ Refer to the global elements section and table below for franchise landing page 
 
 ![wireframe-global-elements](swe-product-definition-images/wireframe-franchise-landing-page.png)
 
-**Franchise landing page [Level 2]**
+<p align="center">Franchise landing page [Level 2]</p>
 
 Ref | Component | Presence | Location (page types) | Flexibility
 --- | ------------- | ------------- | ------------- | -------------
