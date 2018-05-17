@@ -202,9 +202,9 @@ Refer to the global elements section and table below for guide page components.
 
 Ref | Component | Presence | Flexibility
 --- | ------------- | ------------- | -------------
-14 | Process menu (appears in the section navigation of guide pages as a nested menu) | Required | None
-17 | Table of contents | Required | 
-18 | Previous/next | Required | 
+16 | Process menu (appears in the section navigation of guide pages as a nested menu) | Required | None
+17 | Table of contents | Required |
+18 | Previous/next | Optional |
 
 ### 7.4.3	Service page (online forms)
 
