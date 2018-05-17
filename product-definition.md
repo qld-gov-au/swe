@@ -6,7 +6,7 @@ The standards are:
 * Franchise Website Standard (also known as SWE)
 * Agency Website Standard (also known as the Consistent User Experience or ‘CUE’).
 
-This document will assist agencies to understand and comply with the Franchise Website Standard.  
+This page will assist agencies to understand and comply with the Franchise Website Standard.  
 
 ## 1.1	The Franchise Website Standard 
 
@@ -24,13 +24,13 @@ The requirements included in this document have been developed in consultation w
 
 Should an agency require support and guidance on the use of the Franachise Website Standard, they are encouraged to contact OSSSIO. Such queries could include:
 
-•	Variations to a particular requirement within the Franchise Website Standard
-•	Requesting a variation to a CSS element
-•	Assistance with the customisation of page modals
-•	Access to the GitHub pattern library (note—please create a GitHub account prior to contacting OSSSIO)
-•	Joining the User Interface Community of Practice (UI CoP)
-•	Google Analytics and SEO advice
-•	Access to the Customer Research Lab
+*	Variations to a particular requirement within the Franchise Website Standard
+*	Requesting a variation to a CSS element
+*	Assistance with the customisation of page modals
+*	Access to the GitHub pattern library (note—please create a GitHub account prior to contacting OSSSIO)
+*	Joining the User Interface Community of Practice (UI CoP)
+*	Google Analytics and SEO advice
+*	Access to the Customer Research Lab
 
 # 2.0 Accessibility
 
