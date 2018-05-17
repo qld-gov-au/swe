@@ -22,12 +22,12 @@ The requirements included in this document have been developed in consultation w
 
 ## 1.2	Where to find help
 
-Should an agency require support and guidance on the use of the Franachise Website Standard, they are encouraged to contact OSSSIO. Such queries could include:
+Should an agency require support and guidance on the use of the Franachise Website Standard, they are encouraged to contact Queensland Online. Such queries could include:
 
 *	Variations to a particular requirement within the Franchise Website Standard
 *	Requesting a variation to a CSS element
 *	Assistance with the customisation of page modals
-*	Access to the GitHub pattern library (note—please create a GitHub account prior to contacting OSSSIO)
+*	Access to the GitHub pattern library (note—please create a GitHub account prior to contacting Queensland Online)
 *	Joining the User Interface Community of Practice (UI CoP)
 *	Google Analytics and SEO advice
 *	Access to the Customer Research Lab
@@ -67,7 +67,7 @@ Level 4	| Content pages | https://www.qld.gov.au/transport/safety/road-safety/dr
 
 Things to note: 
   1.	This structure is provided for illustrative purposes only. Franchise websites can have multiple levels of index pages before attaching a content page. 
-  2.	Levels 0 and 1 are controlled by OSSSIO and the Department of the Premier and Cabinet. The ‘look and feel’ and structure of these pages has already been configured based on user feedback and are unable to be modified.
+  2.	Levels 0 and 1 are controlled by Queensland Online and the Department of the Premier and Cabinet. The ‘look and feel’ and structure of these pages has already been configured based on user feedback and are unable to be modified.
   3.	All other levels can be customised to some degree.
 
 ## 4.1	Linked content
@@ -136,7 +136,7 @@ Ref | Component | Presence | Location (page types) | Flexibility
 7 | Promoted content (e.g. initiatives, customer stories, social media or consultations) | Optional |  | Can be moved
 8 | Whole-of-government notice aside (e.g. donations or important event) | Required | Can appear on any page with a right-hand panel | None. Markup, presentation and behaviour must be identical.
 9 | Contact details aside (‘aside’ content always appears in the right-hand panel). If it is a ‘crisis contact’ aside, a single phone number is presented in a yellow box under the text ‘If you are in crisis, call xxx xxx’. This should be the first contact box on the page. | Required | Franchise landing page (optional on content pages) | None. Markup, presentation and behaviour must be identical.
-10 | Aside content (e.g. related initiatives, latest news, upcoming events, contact details, tips, customer stories or case studies). As above, if it is a ‘crisis contact’ refer to component 9. | Optional | Franchise landing page, topic index, standard, guide, service, silent node, news/events index, news content. | Can be moved. Asides with different elements, locations or presentations may be possible (based on customer/business needs) after consultation with OSSSIO. 
+10 | Aside content (e.g. related initiatives, latest news, upcoming events, contact details, tips, customer stories or case studies). As above, if it is a ‘crisis contact’ refer to component 9. | Optional | Franchise landing page, topic index, standard, guide, service, silent node, news/events index, news content. | Can be moved. Asides with different elements, locations or presentations may be possible (based on customer/business needs) after consultation with Queensland Online. 
 
 ## 7.3	Topic index pages [Level 3]
 
@@ -181,7 +181,7 @@ Refer to the global elements section for the components in the wireframe below.
 
 Ref | Component | Presence | Location (page types) | Flexibility
 --- | ------------- | ------------- | ------------- | -------------
-12 | Main content (e.g. text, images with captions, pull-quotes, tables, embedded video) | Required | Standard, guide, silent node, 2-column, 1-column application, news content | Listed ‘content types’ are supported. If new content types are required, please consult with OSSSIO.
+12 | Main content (e.g. text, images with captions, pull-quotes, tables, embedded video) | Required | Standard, guide, silent node, 2-column, 1-column application, news content | Listed ‘content types’ are supported. If new content types are required, please consult with Queensland Online.
 13 | Cross-selling links. These are links to journeys that are not in the section navigation on this page (e.g. could be used as a ‘related links’ section). | Optional | Standard, guide, silent node | Between 1 and 5 links are supported. Consider style guide rules when creating. 
 14 | Page last updated date | Required | Standard, guide, silent node, news content | None
 15 | Page last reviewed date | Optional | Standard, guide, silent node, news content | None
@@ -222,10 +222,10 @@ Ref | Component | Presence | Flexibility
 20 | Introduction (to explain the purpose of the service—a ‘read more’ link can be used, if required.) | Required | None
 21 | Error message summary block (will only appear if the form cannot be processed due to input or server-side errors) | Required | None
 22 | Assistance popup or hints (will appear when it has been identified that the customer may need help) | Optional | Depends on audience requirements
-23 | Form elements (refer to the pattern library on [GitHub](https://github.com/qld-gov-au/pattern-library/blob/master/source/patterns-for-web-forms.md) for details of different user interface elements) | Required | None. Before introducing new user interface elements, please consult with OSSSIO.
+23 | Form elements (refer to the pattern library on [GitHub](https://github.com/qld-gov-au/pattern-library/blob/master/source/patterns-for-web-forms.md) for details of different user interface elements) | Required | None. Before introducing new user interface elements, please consult with Queensland Online.
 24 | Actions | Required | None
 25 | Whole-of-government shopping cart | Required if service involves payments | None
-26 | Login | Optional | Markup, presentation and behaviour **can be modified** depending on the type of account. Please consult with OSSSIO to discuss your requirements.
+26 | Login | Optional | Markup, presentation and behaviour **can be modified** depending on the type of account. Please consult with Queensland Online to discuss your requirements.
 27 | Accepted payment types | Required if service involves payments | Appearance must be identical but location can be moved lower within asides column.
 
 ### 7.4.4 Silent node
@@ -481,8 +481,6 @@ Use the appropriate style from the list below. Note: there is no closing punctua
 © Sarah Elliott
 
 Please refer to the [SWE 3 Images & Figures](https://qld-gov-au.github.io/web-template-release/styles.html#images ) for an example of this component.
-
-Contact OSSSIO by emailing oss.products@dsiti.qld.gov.au to arrange access to Govdex.
 
 ### 9.5.1 External non-commissioned images
 
