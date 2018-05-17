@@ -132,7 +132,7 @@ Refer to the global elements section and table below for franchise landing page 
 
 Ref | Component | Presence | Location (page types) | Flexibility
 --- | ------------- | ------------- | ------------- | -------------
-5 | Page title | Required | All*  | None. *Although each page contains a page title, it can be hidden or appear in different locations
+5 | Page title | Required | All*  | None. * Although each page contains a page title, it can be hidden or appear in different locations
 6 | Links to child pages (IA drill-down) will display a maximum of 9 topic or content links. Each of these can then display a maximum of 4 child page (the 5th link will be ‘read more’). | Required | Franchise landing page, topic index. | None. Order of links is based on the needs of the audience.
 7 | Promoted content (e.g. initiatives, customer stories, social media or consultations) | Optional |  | Can be moved
 8 | Whole-of-government notice aside (e.g. donations or important event) | Required | Can appear on any page with a right-hand panel | None. Markup, presentation and behaviour must be identical.
@@ -150,6 +150,10 @@ Refer to the global elements section for the components in the wireframe below.
 ![wireframe-global-elements](swe-product-definition-images/wireframe-topic-page.png)
 
 **Topic page [Level 3]**
+
+Ref | Component | Presence | Location (page types) | Flexibility
+--- | ------------- | ------------- | ------------- | -------------
+11 | Section navigation | Required | Topic index, standard, guide, service, 2-column, news/events index, news content  | None. Can only contain one level of navigation under the section heading 
 
 ## 7.4	Content pages [Level 4]
 
