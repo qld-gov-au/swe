@@ -117,18 +117,8 @@ Ref | Component | Presence | Location (page types) | Flexibility
 0 | Metadata and access links | Required | All  | None
 1 | Header includes the Queensland Government branding/navigation bar and breadcrumb trail | Required | All  | None
 2 | Global announcement (will only appear when there is a site-wide announcement such as state-wide disaster or major alert) | Required | All  | None
-3 | Section navigation | Required | Topic index, standard, guide, service, 2-column, news/events index, news content  | None. Can only contain one level of navigation under the section heading
-4 | Page title | Required | All*  | None. * Although each page contains a page title, it can be hidden or appear in different locations
-5 | Links to child pages (IA drill-down) will display a maximum of 9 topic or content links. Each of these can then display a maximum of 4 child page (the 5th link will be ‘read more’). | Required | Franchise landing page, topic index.  | None. Order of links is based on the needs of the audience.
-6 | Page options (includes ‘feedback’ button and page share options) | Optional | All  | Cannot be moved. 4 page options (Facebook, Twitter, LinkedIn and share) will be displayed. An agency can include more icons, if required.
-7 | Fat footer and footer | Required | All  | None
-8 | Whole-of-government notice aside (e.g. donations or important event) | Required | Can appear on any page with a right-hand panel | None. Markup, presentation and behaviour must be identical.
-9 | Contact details aside (‘aside’ content always appears in the right-hand panel) If it is a ‘crisis contact’ aside, a single phone number is presented in a yellow box under the text ‘**If you are in crisis, call xxx xxx**’. This should be the first contact box on the page. | Required | Franchise landing page (optional on content pages) | None. Markup, presentation and behaviour must be identical.
-10 | Aside content (e.g. related initiatives, latest news, upcoming events, contact details, tips, customer stories or case studies) As above, if it is a ‘crisis contact’ refer to component 9. | Optional | Franchise landing page, topic index, standard, guide, service, silent node, news/events index, news content. | Can be moved. Asides with different elements, locations or presentations may be possible (based on customer/business needs), but must be discussed and developed with OSSSIO ([email](oss.products@dsiti.qld.gov.au)).
-11 | Main content (e.g. text, images with captions, pull-quotes, tables, embedded video) | Required | Standard, guide, silent node, 2-column, 1-column application, news content | Listed ‘content types’ are supported. If new content types are required, please contact OSSSIO ([email](oss.products@dsiti.qld.gov.au)).
-12 | Page last updated date | Required | Standard, guide, silent node, news content | None
-13 | Page last reviewed date | Optional | Standard, guide, silent node, news content | None
-15 | Cross-selling links. These are links to journeys that are not in the section navigation on this page (e.g. could be used as a ‘related links’ section). | Optional | Standard, guide, silent node | Between 1 and 5 links are supported. Consider style guide rules when creating. 
+3 | Page options (includes ‘feedback’ button and page share options) | Optional | All  | Cannot be moved. 4 page options (Facebook, Twitter, LinkedIn and share) will be displayed. An agency can include more icons, if required. 
+4 | Fat footer and footer | Required | All  | None
 
 ## 7.2	Franchise landing page [Level 2]
 
