@@ -130,9 +130,14 @@ Refer to the global elements section and table below for franchise landing page 
 
 **Franchise landing page [Level 2]**
 
-Ref | Component | Presence | Flexibility
---- | ------------- | ------------- | -------------
-16 | Promoted content (e.g. initiatives, customer stories, social media or consultations) | Required | Can be moved
+Ref | Component | Presence | Location (page types) | Flexibility
+--- | ------------- | ------------- | ------------- | -------------
+5 | Page title | Required | All*  | None. *Although each page contains a page title, it can be hidden or appear in different locations
+6 | Links to child pages (IA drill-down) will display a maximum of 9 topic or content links. Each of these can then display a maximum of 4 child page (the 5th link will be ‘read more’). | Required | Franchise landing page, topic index. | None. Order of links is based on the needs of the audience.
+7 | Promoted content (e.g. initiatives, customer stories, social media or consultations) | Optional |  | Can be moved
+8 | Whole-of-government notice aside (e.g. donations or important event) | Required | Can appear on any page with a right-hand panel | None. Markup, presentation and behaviour must be identical.
+9 | Contact details aside (‘aside’ content always appears in the right-hand panel). If it is a ‘crisis contact’ aside, a single phone number is presented in a yellow box under the text ‘If you are in crisis, call xxx xxx’. This should be the first contact box on the page. | Required | Franchise landing page (optional on content pages) | None. Markup, presentation and behaviour must be identical.
+10 | Aside content (e.g. related initiatives, latest news, upcoming events, contact details, tips, customer stories or case studies). As above, if it is a ‘crisis contact’ refer to component 9. | Optional | Franchise landing page, topic index, standard, guide, service, silent node, news/events index, news content. | Can be moved. Asides with different elements, locations or presentations may be possible (based on customer/business needs) after consultation with OSSSIO. 
 
 ## 7.3	Topic index pages [Level 3]
 
