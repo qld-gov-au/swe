@@ -18,9 +18,20 @@ This document:
 *	outlines the requirements for developing website components 
 *	helps departments customise the components for their specific audience. 
 
-The One-Stop Shop Strategy and Implementation Office (OSSSIO) is committed to meeting customers’ needs by optimising their online experience. The requirements included in this document have been developed in consultation with a wide range of stakeholders (including members of the User Interface and Mobile Applications Community of Practice) and tested by customer focus groups. 
+The requirements included in this document have been developed in consultation with a wide range of stakeholders (including members of the User Interface Community of Practice) and tested by customer focus groups. 
 
-A franchise owner may determine that their audience would benefit from a variation to a particular requirement. To request a variation, contact OSSSIO by emailing oss.products@dsiti.qld.gov.au.
+## 1.2	Where to find help
+
+Should an agency require support and guidance on the use of the Franachise Website Standard, they are encouraged to contact OSSSIO. Such queries could include:
+
+•	Variations to a particular requirement within the Franchise Website Standard
+•	Requesting a variation to a CSS element
+•	Assistance with the customisation of page modals
+•	Access to the GitHub pattern library (note—please create a GitHub account prior to contacting OSSSIO)
+•	Joining the User Interface Community of Practice (UI CoP)
+•	Google Analytics and SEO advice
+•	Access to the Customer Research Lab
+
 
 # 2.0 Accessibility
 
