@@ -112,6 +112,7 @@ Some elements are ‘global’ because they appear across all page types (refer 
 
 <p align="center">Global elements [Level 0]</p>
 
+
 Ref | Component | Presence | Location (page types) | Flexibility
 --- | ------------- | ------------- | ------------- | -------------
 0 | Metadata and access links | Required | All  | None
