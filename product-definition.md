@@ -1,6 +1,6 @@
 # 1.0 Queensland Government Website Standards
 
-The Queensland Government’s [Information Standard 26 (IS26)](http://github.com) policy states that all public-facing Queensland Government websites must comply with the appropriate website standard.
+The Queensland Government’s [Information Standard 26 (IS26)](http://github.com){:target="_blank"} policy states that all public-facing Queensland Government websites must comply with the appropriate website standard.
 
 The standards are:
 * Franchise Website Standard (also known as SWE)
