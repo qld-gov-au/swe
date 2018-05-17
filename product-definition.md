@@ -291,6 +291,7 @@ Note:
 *	This page can be treated as a parent page with new child pages. These pagesthat are not mapped into the information architecture. 
 
 Example: https://qld-gov-au.github.io/swe_template/pagemodels/aggregation.html 
+
 Source: https://github.com/qld-gov-au/swe_template/blob/master/src/examples/aggregation.html
 
 ![wireframe-global-elements](swe-product-definition-images/wireframe-aggregate-page.png)
@@ -370,7 +371,15 @@ Ref | Component | Presence | Flexibility
 	+	Urgent changes can be made before then but a review of suggestions and non-urgent changes will be done in early 2018.) 
 * The UI CoP will review the page model and the register on an ongoing basis to ensure that page models with an end date (i.e. tied to short-term campaigns) are decommissioned.
 
-# Additional components
+## 7.6	Continuious improvement of the page model
+
+The User interface Community of Practice (UI CoP) will review all page model’s use and discuss proposed changes. 
+
+*	The UI CoP will review the page model and the register on an ongoing basis to ensure that page models with an end date (i.e. tied to short-term campaigns) are decommissioned.
+
+*	The Franchise Management Group will approve proposed changes to this page model. 
+
+# 8.0 Additional components
 
 ## 7.6	News/feature item
 
