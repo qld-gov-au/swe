@@ -32,7 +32,6 @@ Should an agency require support and guidance on the use of the Franachise Websi
 •	Google Analytics and SEO advice
 •	Access to the Customer Research Lab
 
-
 # 2.0 Accessibility
 
 The Disability Discrimination Act 1992 (Cwlth) states that all Australian websites must comply with the [W3C Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org). Queensland Government websites and websites established or commissioned by Queensland Government bodies, extranets and internet applications are also specifically mandated in IS26 to achieve conformance Level AA of these guidelines.
@@ -57,16 +56,19 @@ Refer to [URL design guidelines](https://www.forgov.qld.gov.au/url-design-guidel
 # 4.0	Structure and page types
 
 Government franchise websites will use an information architecture (IA) similar to:
-  *	‘Home page’ [Level 0] links to
-  * ‘High-level audience pages’ [Level 1] links to
-  *	‘Franchise landing pages’ [Level 2] links to
-  *	‘Topic index pages’ [Level 3] links to
-  * ‘Content pages’ [Level 4].
+
+Level | Webpage | Example
+--- | ------------- | -------------
+Level 0 | Home page | https://www.qld.gov.au/
+Level 1	| High-level audience pages | https://www.qld.gov.au/queenslanders
+Level 2	| Franchise landing pages | https://www.qld.gov.au/transport
+Level 3 | Topic index pages | https://www.qld.gov.au/transport/safety
+Level 4	| Content pages | https://www.qld.gov.au/transport/safety/road-safety/driving-safely/drive-safely
 
 Things to note: 
   1.	This structure is provided for illustrative purposes only. Franchise websites can have multiple levels of index pages before attaching a content page. 
   2.	Levels 0 and 1 are controlled by OSSSIO and the Department of the Premier and Cabinet. The ‘look and feel’ and structure of these pages has already been configured based on user feedback and are unable to be modified.
-  3.	All other levels can be customised to some degree. Contact OSSSIO by emailing oss.products@dsiti.qld.gov.au for assistance.  
+  3.	All other levels can be customised to some degree.
 
 ## 4.1	Linked content
 
