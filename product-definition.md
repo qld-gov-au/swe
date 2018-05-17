@@ -220,15 +220,16 @@ Refer to the global elements section and table below for service page components
 
 Ref | Component | Presence | Flexibility
 --- | ------------- | ------------- | -------------
-19 | Introduction (to explain the purpose of the service—a ‘read more’ link can be used, if required.) | Required | None
-20 | Error message summary block (will only appear if the form cannot be processed due to input or server-side errors) | Required | None
-21 | Assistance popup or hints (will appear when it has been identified that the customer may need help) | Optional | Depends on audience requirements
-22 | Form elements (refer to the pattern library on [GitHub](https://github.com/qld-gov-au/pattern-library/blob/master/source/patterns-for-web-forms.md) for details of different user interface elements) (To gain access to the pattern library, create a Github account and then contact OSSSIO.) | Required | None. Before introducing new user interface elements, please contact OSSSIO (email).
-23 | Actions | Required | None
-24 | Whole-of-government shopping cart | Required if service involves payments | None
-25 | Login | Optional | Markup, presentation and behaviour can be modified depending on the type of account. Please contact OSSSIO ([email](oss.products@dsiti.qld.gov.au)) to discuss your requirements.
-26 | Accepted payment types | Required if service involves payments | Appearance must be identical but location can be moved lower within asides column.
-27 | Progress bar to communicate the current stage of a multistep process **NB:** this component is currently under construction. Therefore the location and presentation is yet to be finalised. *Until finalised, the component is optional. | Required* if a multistep form | Yet to be determined
+19 | Progress bar to communicate the current stage of a multistep process 
+**NB:** this component is currently under construction. Therefore the location and presentation is yet to be finalised. * Until finalised, the component is optional. | Required* if a multistep form | Yet to be determined
+20 | Introduction (to explain the purpose of the service—a ‘read more’ link can be used, if required.) | Required | None
+21 | Error message summary block (will only appear if the form cannot be processed due to input or server-side errors) | Required | None
+22 | Assistance popup or hints (will appear when it has been identified that the customer may need help) | Optional | Depends on audience requirements
+23 | Form elements (refer to the pattern library on [GitHub](https://github.com/qld-gov-au/pattern-library/blob/master/source/patterns-for-web-forms.md) for details of different user interface elements) | Required | None. Before introducing new user interface elements, please consult with OSSSIO.
+24 | Actions | Required | None
+25 | Whole-of-government shopping cart | Required if service involves payments | None
+26 | Login | Optional | Markup, presentation and behaviour **can be modified** depending on the type of account. Please consult with OSSSIO to discuss your requirements.
+27 | Accepted payment types | Required if service involves payments | Appearance must be identical but location can be moved lower within asides column.
 
 ### 7.4.4 Silent node
 
@@ -292,8 +293,8 @@ The aggregation page can be used to aggregate or promote content and topics acro
 
 Ref | Component | Presence | Flexibility
 --- | ------------- | ------------- | -------------
-32 | Hero Image  | Required | None
-33 | Page title and subtitle | Required | Subtitle is optional
+32 | Page title and subtitle | Required | Subtitle is optional
+33 | Hero Image | Required | None
 34 | Cards | Required | 1 - 6 cards
 35 | Additional information panels  | Optional | Where information that would be in the aside goes 
 
