@@ -109,7 +109,6 @@ To ensure that Queensland Government franchise websites have a consistent functi
 Some elements are ‘global’ because they appear across all page types (refer to the wireframe below). Other components are ‘global’ in that they can appear across multiple page types. Those elements are referenced in the component table below the wireframe. 
 
 ![wireframe-global-elements](swe-product-definition-images/wireframe-global-elements.png)
-
 **Global elements [Level 0]**
 
 Ref | Component | Presence | Location (page types) | Flexibility
