@@ -573,7 +573,6 @@ These are the full-screen feature images on www.qld.gov.au.
 *	Alt text—yes
 *	Moral rights—only if taken by someone not working for the Queensland Government
 *	Dimensions—1905 x 574
-*	Refer to the Aggregation page for its hero feature image dimensions. 
 
 ## 10.2	Initiatives feature image
 
