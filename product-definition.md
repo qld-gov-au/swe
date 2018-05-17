@@ -220,8 +220,7 @@ Refer to the global elements section and table below for service page components
 
 Ref | Component | Presence | Flexibility
 --- | ------------- | ------------- | -------------
-19 | Progress bar to communicate the current stage of a multistep process 
-**NB:** this component is currently under construction. Therefore the location and presentation is yet to be finalised. * Until finalised, the component is optional. | Required* if a multistep form | Yet to be determined
+19 | Progress bar to communicate the current stage of a multistep process **NB:** this component is currently under construction. Therefore the location and presentation is yet to be finalised. * Until finalised, the component is optional. | Required* if a multistep form | Yet to be determined
 20 | Introduction (to explain the purpose of the service—a ‘read more’ link can be used, if required.) | Required | None
 21 | Error message summary block (will only appear if the form cannot be processed due to input or server-side errors) | Required | None
 22 | Assistance popup or hints (will appear when it has been identified that the customer may need help) | Optional | Depends on audience requirements
