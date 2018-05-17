@@ -84,7 +84,7 @@ Ideally, links should use the same teaser text and thumbnail images as those use
 
 When linking outside of the franchise, always consider the customer journey. It is better to take the customer directly to the content they are looking for rather than duplicating it or creating a page that represents an ‘extra click’ and offers little additional value.
 
-When linking to non-Queensland Government websites give preference to credible and authoritative .gov, .edu and .org websites (e.g. peak industry associations, statutory authorities and other government or government-funded websites). Avoid links to commercial websites as these may appear to convey endorsement or affiliation
+When linking to non-Queensland Government websites give preference to credible and authoritative .gov, .edu and .org websites (e.g. peak industry associations, statutory authorities and other government or government-funded websites). Avoid links to commercial websites as these may appear to convey endorsement or affiliation.
 
 More guidelines on linking can be found in the Queensland Government [Web writing and style guide](https://www.forgov.qld.gov.au/web-writing-and-style-guide).
 
@@ -92,9 +92,13 @@ More guidelines on linking can be found in the Queensland Government [Web writin
 
 Government franchise websites and online services, must use a responsive design that adjusts the layout of components for mobile devices. All layout, page and content elements must be flexible (have a fluid width) so that at lower resolutions, all 3-column layouts will compact in the correct order into 2 columns and then 1 column, based on CSS media queries.
 
+Please refer to the [SWE 3 Grid System](https://qld-gov-au.github.io/web-template-release/styles.html#grid) for additional information on responsive and flexible layouts.
+
 # 6.0 Corporate identity 
 
-The Queensland Government Single Website Experience must use the same colours, borders, shadings, imagery and/or symbols on all pages to achieve a consistent look and feel. This means that only fonts and colours specified in the approved CSS should be used. To get the CSS details or request a variation to an element, contact OSSSIO by emailing oss.products@dsiti.qld.gov.au.
+The Queensland Government Single Website Experience must use the same colours, borders, shadings, imagery and/or symbols on all pages to achieve a consistent look and feel. This means that only fonts and colours specified in the approved CSS should be used.
+
+Please refer to the [SWE 3 CSS Styles](https://qld-gov-au.github.io/web-template-release/styles.html) for additional information on the corportate identity.
 
 # 7.0	Page models
 
