@@ -381,7 +381,7 @@ The User interface Community of Practice (UI CoP) will review all page model’s
 
 # 8.0 Additional components
 
-## 7.6	News/feature item
+## 8.1	News/feature item
 
 *	Appears in the main content panel or in the right-hand panel, as an aside
 *	Heading less than 33 characters (including spaces)
@@ -389,54 +389,53 @@ The User interface Community of Practice (UI CoP) will review all page model’s
 *	Link to the full story 
 *	Image …
 
-![wireframe-global-elements](swe-product-definition-images/news-feature-item-example.png)
+Please refer to the [SWE 3 call out box](https://qld-gov-au.github.io/web-template-release/components.html#call-out-box) for an example of this component.
 
-## 7.7 Break-out box
+## 8.2 Break-out box
 
 *	Draws the audience’s attention to a key message 
 *	Contains all of the information (rather than linking off to another page for more details) 
 *	Heading less than 33 characters (including spaces) 
 *	Body text less than 100 words
 
-![wireframe-global-elements](swe-product-definition-images/breakout-box-example.png)
+Please refer to the [SWE 3 call out box](https://qld-gov-au.github.io/web-template-release/components.html#call-out-box) for an example of this component.
 
-## 7.8 Grab/standfirst paragraph 
+## 8.3 Grab/standfirst paragraph 
 
 *	Also draws the audience’s attention to a key message
 *	Between 10 and 30 words
 *	There can be multiple ‘grabs’ on a single page 
 
-![wireframe-global-elements](swe-product-definition-images/grab-standfirst-paragraph-example.png)
+Please refer to the [SWE 3 call out box](https://qld-gov-au.github.io/web-template-release/components.html#call-out-box) for an example of this component.
 
-## 7.9	Testimonial 
+## 8.4 Testimonial 
 
 *	Heading—person’s first name and suburb (e.g. Bill, Toowong)
 *	Body less than 70 words (the shorter, the better)
 
-![wireframe-global-elements](swe-product-definition-images/testimonial-example.png)
+Please refer to the [SWE 3 call out box](https://qld-gov-au.github.io/web-template-release/components.html#call-out-box) for an example of this component.
 
-## 7.10	Pull quote 
+## 8.5	Pull quote 
 
 *	Need to grab the reader and entice them to read more 
 *	Should be short (less than 20 words)
 *	Contains quotation marks
 *	Must be from page content
 
-![wireframe-global-elements](swe-product-definition-images/pull-quote-example.png)
+Please refer to the [SWE 3 call out box](https://qld-gov-au.github.io/web-template-release/components.html#call-out-box) for an example of this component.
 
-# 8.0 Photographic images 
+# 9.0 Photographic images 
 
-## 8.1	Image optimisation
-*	Crop images to the appropriate size that will be used on the site. Some images can be resized if research indicates that it would benefit the audience. For example, the road signs on the [Transport and Motoring franchise](https://www.qld.gov.au/transport/conditions/disasters/signs) are resized so the proportions are the same as the actual signs. Contact OSSSIO by emailing oss.products@dsiti.qld.gov.au for assistance.
+## 9.1	Image optimisation
+
+*	Crop images to the appropriate size that will be used on the site. Some images can be resized if research indicates that it would benefit the audience. For example, the road signs on the [Transport and Motoring franchise](https://www.qld.gov.au/transport/conditions/disasters/signs) are resized so the proportions are the same as the actual signs.
 *	Preserve the aspect ratio—don’t stretch or squeeze the image.
-*	Set the image resolution to 72 DPI.
 *	At onscreen resolution, is the subject of the image clear?
-*	Set the quality to around 80% (for jpg compression).
 *	Save as a jpg or png.
 *	Don’t mirror (flip) images for aesthetic reasons.
 *	For naming convention guidelines, refer to the URL and filename design guidelines section.
 
-## 8.2	Suitability
+## 9.2	Suitability
 
 Images must be relevant to the content and where practical, taken in Queensland. Consider the following:
 
@@ -450,27 +449,26 @@ Images must be relevant to the content and where practical, taken in Queensland.
 *	Does the image look professional and appropriate (e.g. avoid clipart)?
 *	Has consent been obtained and recorded for all of the people in the image? 
 
-## 8.3	Caption (for non-decorative images or photos) 
+## 9.3	Caption (for non-decorative images or photos) 
 
 *	Should be sentence case and have no closing punctuation. 
 *	Only requires ‘alt text’ if the caption doesn’t convey some specific detail apparent to sighted users. 
 
-![wireframe-global-elements](swe-product-definition-images/caption-example.png)
+Please refer to the [SWE 3 Images & Figures](https://qld-gov-au.github.io/web-template-release/styles.html#images ) for an example of this component.
 
-## 8.4	Sourcing images
+## 9.4	Sourcing images
 All images should be:
-*	owned by the agency
+
+*	owned by the Queensland Government
 *	in the public domain or
 *	suitably licenced (check for a Creative Commons licence). 
-
-Refer to [Sourcing images info sheet](https://govdex.gov.au/?os_destination=/confluence%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DStyles%2Band%2Bstandards&os_destination=%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DStyles%2Band%2Bstandards&permissionViolation=true) on Govdex to find tips on how to source free images. Contact OSSSIO by emailing oss.products@dsiti.qld.gov.au to arrange access to Govdex.
 
 Main image sourcing considerations: 
 *	Is the image royalty free?
 *	Has credit been given if necessary? See the section on image credits for more detail.
 *	Is there a signed consent (release) form from everyone in the photo? 
 
-## 8.5 Image credits
+## 9.5 Image credits
 
 Use the appropriate style from the list below. Note: there is no closing punctuation.
 
@@ -482,23 +480,21 @@ Use the appropriate style from the list below. Note: there is no closing punctua
 © Ray Cash Photography
 © Sarah Elliott
 
-![wireframe-global-elements](swe-product-definition-images/image-credits-example.png)
-
-To enable the credit overlay icon, refer to the code pattern for images with credits in the [Govdex pattern library](https://govdex.gov.au/?os_destination=/confluence%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DPattern%2Blibrary&os_destination=%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DPattern%2Blibrary&permissionViolation=true) (located under Figures (images, diagrams, captions).
+Please refer to the [SWE 3 Images & Figures](https://qld-gov-au.github.io/web-template-release/styles.html#images ) for an example of this component.
 
 Contact OSSSIO by emailing oss.products@dsiti.qld.gov.au to arrange access to Govdex.
 
-### 8.5.1 External non-commissioned images
+### 9.5.1 External non-commissioned images
 
 If an image is supplied free by an external agency or individual, they need to provide the copyright information.
 
-### 8.5.2 Queensland Government images
+### 9.5.2 Queensland Government images
 
 If an image is taken by a Queensland Government employee (in the course of their work) or a freelance photographer commissioned by a government agency, copyright belongs to the State of Queensland and the statement in the website footer is sufficient. The photographer is not credited in this instance. 
 
-## 8.6 Image types
+## 9.6 Image types
 
-### 8.6.1 Index page thumbnail
+### 9.6.1 Index page thumbnail
 
 Thumbnails appear on franchise landing and topic index pages—for example, [Health and wellbeing] (https://www.qld.gov.au/health) (franchise) or [Screening and health checks](https://www.qld.gov.au/health/conditions/screening) (topic).
 
@@ -509,9 +505,9 @@ Index page thumbnails have the following specifications:
 *	The image must not be reused on the same page
 *	Dimensions—75 x 75 pixels
 
-![wireframe-global-elements](swe-product-definition-images/index-page-thumbnail-example.png)
+Please refer to the [SWE 3 Index Page Template](https://qld-gov-au.github.io/web-template-release/pagemodels/index-page.html) for an example of this component.
 
-### 8.6.2 Wide angle aside
+### 9.6.2 Wide angle aside
 
 Wide angle aside images have the following specifications:
 
@@ -525,7 +521,7 @@ Wide angle aside images have the following specifications:
 
 ![wireframe-global-elements](swe-product-definition-images/wide-angle-aside-alter-example.png)
 
-### 8.6.3 Photo gallery thumbnail
+### 9.6.3 Photo gallery thumbnail
 
 Photo gallery thumbnails have the following specifications:
 
@@ -535,7 +531,7 @@ Photo gallery thumbnails have the following specifications:
 
 ![wireframe-global-elements](swe-product-definition-images/photo-gallery-thumbnail-example.png)
 
-### 8.6.4 Photo gallery light-box image
+### 9.6.4 Photo gallery light-box image
 
 Photo gallery light-box images have the following specifications:
 
@@ -547,34 +543,39 @@ Photo gallery light-box images have the following specifications:
 
 ![wireframe-global-elements](swe-product-definition-images/photo-gallery-light-box-image-example.png)
 
-Refer to the [Pattern library](https://govdex.gov.au/?os_destination=/confluence%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DPattern%2Blibrary&os_destination=%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DPattern%2Blibrary&permissionViolation=true) on Govdex for advice and examples of pages that contain light boxes. Contact OSSSIO by emailing oss.products@dsiti.qld.gov.au to arrange access to Govdex.
+An example will be added to the [SWE 3 models and templates](https://qld-gov-au.github.io/web-template-release/index.html) soon.
 
-### 8.6.5 Cut-in image (landscape)
+### 9.6.5 Cut-in image (landscape)
 
 *	Alt text and caption—yes
 *	Moral rights—only if taken by someone not working for the Queensland Government
 *	Dimensions—374 x 187
 
-![wireframe-global-elements](swe-product-definition-images/cut-in-image-(landscape)-example.png)
+Please refer to the [SWE 3 Images & Figures](https://qld-gov-au.github.io/web-template-release/styles.html#images ) for an example of this component.
 
-### 8.6.6 Cut-in image (portrait)
+### 9.6.6 Cut-in image (portrait)
 
 *	Alt text and caption—yes
 *	Moral rights—only if taken by someone not working for the Queensland Government
 *	Dimensions—284 x 379
 
-![wireframe-global-elements](swe-product-definition-images/cut-in-image-(portrait)-example.png)
+Please refer to the [SWE 3 Images & Figures](https://qld-gov-au.github.io/web-template-release/styles.html#images ) for an example of this component.
 
-### 8.6.7	Hero feature image
+### 9.6.7	Diagrams and figures
+Diagrams and figures require different formatting to other images. Please refer to the [Pattern Library](https://github.com/qld-gov-au/pattern-library/blob/master/source/content-types/content-patterns/content-patterns.md#figures-images-diagrams-captions) for more information.
+
+# 10	Homepage components
+
+## 10.1 Hero feature image
 
 These are the full-screen feature images on www.qld.gov.au. 
 
 *	Alt text—yes
 *	Moral rights—only if taken by someone not working for the Queensland Government
-*	Dimensions—1600 x 729
+*	Dimensions—1905 x 574
 *	Refer to the Aggregation page for its hero feature image dimensions. 
 
-### 8.6.8	Initiatives feature image
+## 10.2	Initiatives feature image
 
 An initiatives feature is one of the smaller images on www.qld.gov.au.
 
@@ -582,32 +583,15 @@ An initiatives feature is one of the smaller images on www.qld.gov.au.
 *	Moral rights—only if taken by someone not working for the Queensland Government
 *	Dimensions—291 x 197
 
-### 8.6.9	News feature image
+## 10.3	News feature image
 
-News images:
+Agencies may submit news/features for consideration on the homepage at the link below:
 
-*	should not contain text (where at all possible) as they are used to humanise the content. Images with text can look like advertising and may be ignored by the audience.
-*	should be supplied as high quality jpeg or tiff files with a minimum of 72 dpi (150 or 300 dpi is preferable). 
-*	need to be 1200px wide (or larger) so they can be scaled or cropped to fit the layout and with a landscape orientation. 
-*	should be supplied in eps format or Adobe Illustrator (Ai) format when using logos, name styles or campaign graphics. Alternatively, a high resolution pdf or tiff file should be supplied.
-*	dimensions are 284 x 113px (recommended) or 284 x 159px.
+https://www.forgov.qld.gov.au/request-web-feature-queensland-government
 
-### 8.6.10	Diagrams and figures
-Diagrams and figures require different formatting to other images. Refer to the [Pattern library](https://govdex.gov.au/?os_destination=/confluence%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DPattern%2Blibrary&os_destination=%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DPattern%2Blibrary&permissionViolation=true) on Govdex for formatting details. Contact OSSSIO by emailing oss.products@dsiti.qld.gov.au to arrange access to Govdex.
-
-# 9	Metadata
+# 11	Metadata
 
 Queensland Government websites use metadata to: 
 
 *	Improve search engine optimisation rankings
 *	Group and display similar content (i.e. adding a specific metadata tag to an event or news item can trigger the item to appear on content pages with the same tag) 
-
-Refer to [Metadata in the template](https://govdex.gov.au/?os_destination=/confluence%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DMetadata%2Bin%2Bthe%2Btemplate&os_destination=%2Fpages%2Fviewpage.action%3FspaceKey%3DSSQSWE%26title%3DMetadata%2Bin%2Bthe%2Btemplate&permissionViolation=true) on Govdex for more information. Contact OSSSIO by emailing oss.products@dsiti.qld.gov.au to arrange access to Govdex.  
-
-# 10	How OSSSIO can help
-
-*	Email oss.products@dsiti.qld.gov.au to see how OSSSIO can help you in the following areas:
-	*	Access to the Customer Research Lab
-	*	Google Analytics and SEO advice
-	*	Access to GOVDEX
-	*	Joinging the User interface community of practice (UI CoP)Contact OSSSIO by emailing oss.products@dsiti.qld.gov.au to arrange access to Govdex.
