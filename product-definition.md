@@ -148,7 +148,7 @@ Refer to the global elements section for the components in the wireframe below.
 
 ![wireframe-global-elements](swe-product-definition-images/wireframe-topic-page.png)
 
-**Topic page [Level 3]**
+<p align="center">Topic page [Level 3]</p>
 
 Ref | Component | Presence | Location (page types) | Flexibility
 --- | ------------- | ------------- | ------------- | -------------
@@ -177,7 +177,7 @@ Refer to the global elements section for the components in the wireframe below.
 
 ![wireframe-global-elements](swe-product-definition-images/wireframe-standard-page.png)
 
-**Standard page [Level 4]**
+<p align="center">Standard page [Level 4]</p>
 
 Ref | Component | Presence | Location (page types) | Flexibility
 --- | ------------- | ------------- | ------------- | -------------
@@ -196,7 +196,7 @@ Refer to the global elements section and table below for guide page components.
 
 ![wireframe-global-elements](swe-product-definition-images/wireframe-guide-page.png)
 
-**Guide page [Level 4]**
+<p align="center">Guide page [Level 4]</p>
 
 Ref | Component | Presence | Flexibility
 --- | ------------- | ------------- | -------------
@@ -214,7 +214,7 @@ Refer to the global elements section and table below for service page components
 
 ![wireframe-global-elements](swe-product-definition-images/wireframe-service-page.png)
 
-**Service page [Level 4]**
+<p align="center">Service page [Level 4]</p>
 
 Ref | Component | Presence | Flexibility
 --- | ------------- | ------------- | -------------
@@ -238,7 +238,7 @@ There are no specific component requirements for silent node pages. Refer to the
 
 ![wireframe-global-elements](swe-product-definition-images/wireframe-silent-node-page.png)
 
-**Silent node page [Level 4]**
+<p align="center">Silent node page [Level 4]</p>
 
 ### 7.4.5	2-column or 1-column application page
 
@@ -248,11 +248,11 @@ There are no specific component requirements for these pages. Refer to the globa
 
 ![wireframe-global-elements](swe-product-definition-images/wireframe-2-column-application-page.png)
 
-**2-column application page**
+<p align="center">2-column application page</p>
 
 ![wireframe-global-elements](swe-product-definition-images/wireframe-1-column-application-page.png)
 
-**1-column application page**
+<p align="center">1-column application page</p>
 
 ### 7.4.6	News or event index pages
 
@@ -260,7 +260,7 @@ News or event index pages are specially formulated to display a list of news art
 
 ![wireframe-global-elements](swe-product-definition-images/wireframe-news-or-event-index-page.png)
 
-**News or event index page**
+<p align="center">News or event index page</p>
 
 Ref | Component | Presence | Flexibility
 --- | ------------- | ------------- | -------------
@@ -273,7 +273,7 @@ Refer to the global elements section and table below for news content page compo
 
 ![wireframe-global-elements](swe-product-definition-images/wireframe-news-content-page.png)
 
-**News content page**
+<p align="center">News content page</p>
 
 Ref | Component | Presence | Flexibility
 --- | ------------- | ------------- | -------------
@@ -296,7 +296,7 @@ Source: https://github.com/qld-gov-au/swe_template/blob/master/src/examples/aggr
 
 ![wireframe-global-elements](swe-product-definition-images/wireframe-aggregate-page.png)
 
-**Rich landing page model**
+<p align="center">Rich landing page model</p>
 
 Ref | Component | Presence | Flexibility
 --- | ------------- | ------------- | -------------
@@ -329,7 +329,7 @@ Ref | Component | Presence | Flexibility
 
 **Register page of page model**
 
-•	Register page model use at https://www.forgov.qld.gov.au/forum/topic/16001-aggregation-page-register 
+Register page model use at https://www.forgov.qld.gov.au/forum/topic/16001-aggregation-page-register 
 
 **7.5	Advanced franchise landing page [Level 2]**
 
@@ -339,7 +339,7 @@ Refer to the global elements section and table below for franchise landing page 
 
 ![wireframe-global-elements](swe-product-definition-images/wireframe-advanced-franchise-landing-page.png)
 
-**Advanced franchise landing pagee**
+<p align="center">Advanced franchise landing pagee</p>
 
 Ref | Component | Presence | Flexibility
 --- | ------------- | ------------- | -------------
@@ -494,7 +494,7 @@ If an image is taken by a Queensland Government employee (in the course of their
 
 ### 9.6.1 Index page thumbnail
 
-Thumbnails appear on franchise landing and topic index pages—for example, [Health and wellbeing] (https://www.qld.gov.au/health) (franchise) or [Screening and health checks](https://www.qld.gov.au/health/conditions/screening) (topic).
+Thumbnails appear on franchise landing and topic index pages—for example, [Health and wellbeing](https://www.qld.gov.au/health) (franchise) or [Screening and health checks](https://www.qld.gov.au/health/conditions/screening) (topic).
 
 Index page thumbnails have the following specifications: 
 
@@ -513,11 +513,11 @@ Wide angle aside images have the following specifications:
 *	Moral rights—only if taken by someone not working for the Queensland Government
 *	Dimensions—284 x 113 pixels (**recommended**)
 
-![wireframe-global-elements](swe-product-definition-images/wide-angle-aside-rec-example.png)
+<img src="swe-product-definition-images/wide-angle-aside-rec-example.png" alt="wide-angle-aside" width="284" height="113">
 
 *	Dimensions—284 x 159 pixels (**alternative**; only to be used if the recommended dimensions distort the source photo)
 
-![wireframe-global-elements](swe-product-definition-images/wide-angle-aside-alter-example.png)
+<img src="swe-product-definition-images/wide-angle-aside-alter-example.png" alt="wide-angle-aside-alternative" width="284" height="159">
 
 ### 9.6.3 Photo gallery thumbnail
 
@@ -527,7 +527,7 @@ Photo gallery thumbnails have the following specifications:
 *	Moral rights—no
 *	Dimensions—100 x 100 pixels
 
-![wireframe-global-elements](swe-product-definition-images/photo-gallery-thumbnail-example.png)
+<img src="swe-product-definition-images/photo-gallery-thumbnail-example.png" alt="photo-gallery-thumbnail" width="100" height="100">
 
 ### 9.6.4 Photo gallery light-box image
 
