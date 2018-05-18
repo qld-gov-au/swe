@@ -513,11 +513,11 @@ Wide angle aside images have the following specifications:
 *	Moral rights—only if taken by someone not working for the Queensland Government
 *	Dimensions—284 x 113 pixels (**recommended**)
 
-![wireframe-global-elements](swe-product-definition-images/wide-angle-aside-rec-example.png =284x113)
+<img src="swe-product-definition-images/wide-angle-aside-rec-example.png" alt="wide angle aside" width="284" height="113">
 
 *	Dimensions—284 x 159 pixels (**alternative**; only to be used if the recommended dimensions distort the source photo)
 
-![wireframe-global-elements](swe-product-definition-images/wide-angle-aside-alter-example.png)
+<img src="swe-product-definition-images/wide-angle-aside-alter-example.png" alt="wide angle aside alternative" width="284" height="159">
 
 ### 9.6.3 Photo gallery thumbnail
 
