@@ -329,7 +329,7 @@ Ref | Component | Presence | Flexibility
 
 **Register page of page model**
 
-•	Register page model use at https://www.forgov.qld.gov.au/forum/topic/16001-aggregation-page-register 
+Register page model use at https://www.forgov.qld.gov.au/forum/topic/16001-aggregation-page-register 
 
 **7.5	Advanced franchise landing page [Level 2]**
 
@@ -494,7 +494,7 @@ If an image is taken by a Queensland Government employee (in the course of their
 
 ### 9.6.1 Index page thumbnail
 
-Thumbnails appear on franchise landing and topic index pages—for example, [Health and wellbeing] (https://www.qld.gov.au/health) (franchise) or [Screening and health checks](https://www.qld.gov.au/health/conditions/screening) (topic).
+Thumbnails appear on franchise landing and topic index pages—for example, [Health and wellbeing](https://www.qld.gov.au/health) (franchise) or [Screening and health checks](https://www.qld.gov.au/health/conditions/screening) (topic).
 
 Index page thumbnails have the following specifications: 
 
@@ -513,7 +513,7 @@ Wide angle aside images have the following specifications:
 *	Moral rights—only if taken by someone not working for the Queensland Government
 *	Dimensions—284 x 113 pixels (**recommended**)
 
-![wireframe-global-elements](swe-product-definition-images/wide-angle-aside-rec-example.png)
+![wireframe-global-elements](swe-product-definition-images/wide-angle-aside-rec-example.png =284x113)
 
 *	Dimensions—284 x 159 pixels (**alternative**; only to be used if the recommended dimensions distort the source photo)
 
