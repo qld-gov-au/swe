@@ -273,7 +273,7 @@ Refer to the global elements section and table below for news content page compo
 
 ![wireframe-global-elements](swe-product-definition-images/wireframe-news-content-page.png)
 
-<p align="center">News content page</p)
+<p align="center">News content page</p>
 
 Ref | Component | Presence | Flexibility
 --- | ------------- | ------------- | -------------
