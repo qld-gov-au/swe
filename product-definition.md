@@ -389,8 +389,6 @@ The User interface Community of Practice (UI CoP) will review all page model’s
 *	Link to the full story 
 *	Image …
 
-Please refer to the [SWE 3 call out box](https://qld-gov-au.github.io/web-template-release/components.html#call-out-box) for an example of this component.
-
 ## 8.2 Break-out box
 
 *	Draws the audience’s attention to a key message 
@@ -412,8 +410,6 @@ Please refer to the [SWE 3 Lead body copy](https://qld-gov-au.github.io/web-temp
 
 *	Heading—person’s first name and suburb (e.g. Bill, Toowong)
 *	Body less than 70 words (the shorter, the better)
-
-Please refer to the [SWE 3 call out box](https://qld-gov-au.github.io/web-template-release/components.html#call-out-box) for an example of this component.
 
 ## 8.5	Pull quote 
 
