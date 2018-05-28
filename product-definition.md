@@ -422,7 +422,7 @@ Please refer to the [SWE 3 call out box](https://qld-gov-au.github.io/web-templa
 *	Contains quotation marks
 *	Must be from page content
 
-Please refer to the [SWE 3 call out box](https://qld-gov-au.github.io/web-template-release/components.html#call-out-box) for an example of this component.
+Please refer to the [SWE 3 Blockquotes](https://qld-gov-au.github.io/web-template-release/styles.html#typography) for an example of this component.
 
 # 9.0 Photographic images 
 
