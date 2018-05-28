@@ -398,7 +398,7 @@ Please refer to the [SWE 3 call out box](https://qld-gov-au.github.io/web-templa
 *	Heading less than 33 characters (including spaces) 
 *	Body text less than 100 words
 
-Please refer to the [SWE 3 call out box](https://qld-gov-au.github.io/web-template-release/components.html#call-out-box) for an example of this component.
+Please refer to the [SWE 3 Call out box](https://qld-gov-au.github.io/web-template-release/components.html#call-out-box) for an example of this component.
 
 ## 8.3 Grab/standfirst paragraph 
 
@@ -406,7 +406,7 @@ Please refer to the [SWE 3 call out box](https://qld-gov-au.github.io/web-templa
 *	Between 10 and 30 words
 *	There can be multiple ‘grabs’ on a single page 
 
-Please refer to the [SWE 3 call out box](https://qld-gov-au.github.io/web-template-release/components.html#call-out-box) for an example of this component.
+Please refer to the [SWE 3 Lead body copy](https://qld-gov-au.github.io/web-template-release/styles.html#typography) for an example of this component.
 
 ## 8.4 Testimonial 
 
