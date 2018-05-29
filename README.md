@@ -22,13 +22,13 @@ The SWE has two versions.
 
 - **SWE 3** is a rapid protoyping framework, built on bootstrap 3
 	- SWE 3 is used for all new websites
-	- SWE 3 is the template used for www.qld.gov.au federated access sites & pages
+	- SWE 3 is the template used for new www.qld.gov.au federated access sites & pages
 	- **SWE 3 replaces SWE 2**
 	- SWE 3's appearance laregly reflects SWE 2
 	- SWE 3 is not feature complete, required components will be ported as necessary
   - [SWE 3 Page models and templates](https://qld-gov-au.github.io/web-template-release/index.html)
 
-- **SWE 2** is a frontend framework used for legacy www.qld.gov.au
+- **SWE 2** is a frontend framework used for www.qld.gov.au
 	- SWE 2 is **not supported** for new websites
 	- SWE 2 w**ill be deprecated at the close of 2018**  
   - [SWE 2 Page models and templates](https://qld-gov-au.github.io/swe_template/)
