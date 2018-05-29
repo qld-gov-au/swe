@@ -1,4 +1,4 @@
-# Single Website Experience product definition (draft)
+# Single Website Experience (SWE) product definition (draft)
 
 # 1.0 Queensland Government Website Standards
 
