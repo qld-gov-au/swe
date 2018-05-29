@@ -16,10 +16,10 @@ The **Single Website Experience (SWE)** is a frontend framework used for www.qld
 
 ## Versions
 
-The SWE has two flavours. 
+The SWE has two versions. 
 
 - **SWE 3** is a rapid protoyping framework, built on bootstrap 3
-	- SWE 3 is used for all new websites
+	- SWE 3 is used for all new websites (including new federated access franchise sites)
 	- **SWE 3 replaces SWE 2**
 	- SWE 3's appearance laregly reflects SWE 2
 	- SWE 3 is not feature complete, required components will be ported as necessary
