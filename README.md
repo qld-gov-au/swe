@@ -4,8 +4,8 @@ The **Single Website Experience (SWE)** is a frontend framework used for www.qld
 
 ## Documents
 
-* [Product definition (draft)](product-definition.md)
-* [Patern library](https://github.com/qld-gov-au/pattern-library)
+* [SWE Product definition (draft)](product-definition.md)
+* [SWE Pattern library](https://github.com/qld-gov-au/pattern-library)
 * [SWE 3 Page models and templates](https://qld-gov-au.github.io/web-template-release/index.html)
 
 ## Related documents
