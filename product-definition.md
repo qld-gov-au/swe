@@ -98,7 +98,7 @@ Please refer to the [SWE 3 Grid System](https://qld-gov-au.github.io/web-templat
 
 # 6.0 Corporate identity 
 
-The Queensland Government Single Website Experience must use the same colours, borders, shadings, imagery and/or symbols on all pages to achieve a consistent look and feel. This means that only fonts and colours specified in the approved CSS should be used.
+The Queensland Government Single Website Experience must use the same colours, typography, borders, shadings, imagery and/or symbols on all pages to achieve a consistent look and feel. This means that only fonts and colours specified in the approved CSS should be used.
 
 Please refer to the [SWE 3 CSS Styles](https://qld-gov-au.github.io/web-template-release/styles.html) for additional information on the corportate identity.
 
