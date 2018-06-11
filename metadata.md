@@ -26,6 +26,28 @@ meta tags represent key-value pairs.
 <meta name="KEY" content="VALUE" />
 ```
 
-Some metadata is captured through standard HTML markup---for example, document language.
+* Some metadata is captured through standard HTML markup---for example, document language.
+* Other metadata may be repeated visibly in the page content---for example, modified date.
 
-Other metadata may be repeated visibly in the page content---for example, modified date.
+## Common metadata
+
+### Language
+
+```html
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-AU" lang="en-AU">
+```
+
+* Specify the primary language of the document using @xml:lang and @lang.
+* en-AU is recommended for Australian English.
+
+### Title
+#### Landing pages
+```html
+<title>FRANCHISE | Queensland Government</title>
+```
+
+* On franchise landing pages the franchise name is the page title.
+* Replace FRANCHISE with the name of your franchise. The main heading h1 on the landing page will also be the franchise name.
+* Queensland Government is to be appended to all page titles.
+* This will be repeated in DCTERMS.title (see below) without the 'Queensland Government' suffix.
+
