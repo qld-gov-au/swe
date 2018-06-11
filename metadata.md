@@ -8,15 +8,15 @@ Metadata needs to be recorded against each page. It is not embedded in the globa
 
 ## References
 
-[Metadata (IS34)](https://www.qgcio.qld.gov.au/qgcio/architectureandstandards/informationstandards/current/Pages/Metadata.aspx)
+* [Metadata (IS34)](https://www.qgcio.qld.gov.au/qgcio/architectureandstandards/informationstandards/current/Pages/Metadata.aspx)
 
-[AGLS Metadata Standard](http://www.agls.gov.au/) (read the Usage Guide in particular)
+* [AGLS Metadata Standard](http://www.agls.gov.au/) (read the Usage Guide in particular)
 
-[DCMI Metadata Terms](http://dublincore.org/documents/dcmi-terms/) (Dublin Core Metadata Initiative)
+* [DCMI Metadata Terms](http://dublincore.org/documents/dcmi-terms/) (Dublin Core Metadata Initiative)
 
-[APAIS thesaurus](http://www.nla.gov.au/apais/thesaurus/search.html) (Australian Public Affairs Information Service)
+* [APAIS thesaurus](http://www.nla.gov.au/apais/thesaurus/search.html) (Australian Public Affairs Information Service)
 
-[AGIFT](http://agift.naa.gov.au/) (Australian Governments' Interactive Functions Thesaurus)
+* [AGIFT](http://agift.naa.gov.au/) (Australian Governments' Interactive Functions Thesaurus)
 
 ## Syntax
 
