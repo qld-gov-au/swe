@@ -203,3 +203,35 @@ Choose the most appropriate type value (usually 'Text').
 ```
 [DCMI Period](http://dublincore.org/documents/dcmi-period/)
 
+###### Place (spatial coverage)
+(TBA see getinvolved consultation metadata form)
+
+[DCMI Box](http://dublincore.org/documents/dcmi-box/) and [DCMI Point](http://dublincore.org/documents/dcmi-point/)
+
+#### Service pages and applications
+```html
+<meta name="DCTERMS.type" scheme="DCTERMS.DCMIType" content="Service" />
+<meta name="AGLSTERMS.serviceType" scheme="AGLSTERMS.agls-service" content="transactions" />
+```
+* Choose the best match from the AGLS Service Vocabulary Encoding Scheme
+* Do not use more than one term. Do not make up your own terms.
+* If you cannot find a better match, use 'transactions'.
+
+### Intended audience
+```html
+<meta name="DCTERMS.audience" scheme="AGLSTERMS.agls-audience" content="all" />
+
+* Terms must be chosen from the AGLS Audience Vocabulary Encoding Scheme.
+* Choose the best match. Do not make up your own terms. Separate multiple terms with semi-colons.
+* Specify the audience the document was written for.
+* If the document is about an audience, use subject. For example, a page written for parents of children with autism would use 'parents' as the subject, NOT 'people with disabilities', and should use 'Children with disabilities' as a subject (from APAIS).
+* If the document is generally for anybody, use 'all'.
+
+### Coverage
+```html
+<meta name="DCTERMS.coverage" scheme="AGLSTERMS.AglsJuri" content="Queensland" />
+```
+
+Content licence
+<meta name="DCTERMS.license" scheme="DCTERMS.URI" content="https://creativecommons.org/licenses/by/4.0/" />
+(GILF has been superseded by AusGOAL)
