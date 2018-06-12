@@ -227,11 +227,47 @@ Choose the most appropriate type value (usually 'Text').
 * If the document is about an audience, use subject. For example, a page written for parents of children with autism would use 'parents' as the subject, NOT 'people with disabilities', and should use 'Children with disabilities' as a subject (from APAIS).
 * If the document is generally for anybody, use 'all'.
 
-### Coverage
+### Converage
 ```html
 <meta name="DCTERMS.coverage" scheme="AGLSTERMS.AglsJuri" content="Queensland" />
 ```
 
-Content licence
+### Content licence
+```html
 <meta name="DCTERMS.license" scheme="DCTERMS.URI" content="https://creativecommons.org/licenses/by/4.0/" />
-(GILF has been superseded by AusGOAL)
+```
+(GILF has been superseded by [AusGOAL](http://www.ausgoal.gov.au/))
+
+## Notes
+### Page titles
+
+Page titles appear in multiple places within each web page.
+
+**On landing pages** the page title is always the franchise name and appears:
+
+ 1. as the first part of the <title> element along with 'Queensland Government'
+ 2. in the metadata as DCTERMS.title
+ 3. as the main content heading h1
+ 4. at the end of the breadcrumb
+ 5. in variables passed to:
+  
+    
+    a. web analytics scripts
+    
+    b. the page feedback form
+    
+    c. the share script
+
+**On other pages** the page title appears:
+
+ 1. as the first part of the <title> element, along with the franchise name and 'Queensland Government'
+ 2. in the metadata as DCTERMS.title, along with the franchise name
+ 3. as the main content heading h1
+ 4. at the end of the breadcrumb
+ 5. in variables passed to:
+  
+    a. web analytics scripts
+    
+    b. the page feedback form
+    
+    c. the share script
