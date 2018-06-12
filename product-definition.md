@@ -44,6 +44,8 @@ WCAG 2.0 also provides specific requirements for Rich Internet Applications. It 
 
 Refer to [WAI Rich Internet Applications (WAI-ARIA)](https://www.w3.org/TR/wai-aria-1.1/) for more information.
 
+An [Accessibility Checklist](TBC) has been created to help you self-assess accessibility compliancy against WCAG A and AA level checkpoints.
+
 # 3.0	URL and filename design guidelines
 
 Queensland Government websites must comply with a set of URL design guidelines. These guidelines have been formulated to create ‘clean’ and ‘persistent’ URLs. To comply with these guidelines, an agency should use the following naming conventions for pages, sections or images:
