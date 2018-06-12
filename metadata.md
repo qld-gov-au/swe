@@ -220,6 +220,7 @@ Choose the most appropriate type value (usually 'Text').
 ### Intended audience
 ```html
 <meta name="DCTERMS.audience" scheme="AGLSTERMS.agls-audience" content="all" />
+```
 
 * Terms must be chosen from the AGLS Audience Vocabulary Encoding Scheme.
 * Choose the best match. Do not make up your own terms. Separate multiple terms with semi-colons.
