@@ -157,4 +157,49 @@ Alternative title
 <!--#include virtual="/assets/includes/global/head-meta-identifier.html"-->
 ```
 
+### Document and service types
+```html
+<meta name="DCTERMS.type" scheme="DCTERMS.DCMIType" content="Text" />
+```
+Choose the most appropriate type value (usually 'Text').
+
+| Type        | Suggested use
+| ------------- | ------------- 
+| Collection      | use on landing, theme and topic pages
+| Dataset      | Not applicable
+| Event      | use for web pages that describe an event (see also coverage)
+| Image      | Not applicable
+| InteractiveResource      | Flash games, educational resources, etc.
+| MovingImage      | Not applicable
+| PhysicalObject      | Not applicable
+| Service      | Use for online services, qualify with AGLSTERMS.serviceType
+| Software      | Not applicable
+| Sound      | Not applicable
+| Text      | use for content and guide pages, except events and services
+
+[DCMI Type Vocabulary](http://dublincore.org/documents/2010/10/11/dcmi-type-vocabulary/)
+
+#### Landing, theme and topic pages
+```html
+<meta name="DCTERMS.type" scheme="DCTERMS.DCMIType" content="Collection" />
+<meta name="AGLSTERMS.aggregationLevel" content="collection"/>
+<meta name="AGLSTERMS.documentType" scheme="AGLSTERMS.agls-document" content="index" />
+```
+* Change DCTERMS.type to Collection and specify AGLSTERMS.aggregationLevel and AGLSTERMS.documentType as indicated.
+* AGLSTERMS.aggregationLevel defaults to 'item' and does not need to be specified on other pages.
+
+##### Content pages
+```html
+<meta name="DCTERMS.type" scheme="DCTERMS.DCMIType" content="Text" />
+<meta name="AGLSTERMS.documentType" scheme="AGLSTERMS.agls-document" content="guidelines" />
+```
+* Choose the best match from the AGLS Document Vocabulary Encoding Scheme
+* Do not use more than one term. Do not make up your own terms.
+* If in doubt, choose 'guidelines'
+
+###### Time (temporal coverage)
+```html
+<meta name="DCTERMS.temporal" content="name=Perth International Arts Festival, 2000; start=2000-01-26; end=2000-02-20;" />
+```
+[DCMI Period](http://dublincore.org/documents/dcmi-period/)
 
