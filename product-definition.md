@@ -44,7 +44,7 @@ WCAG 2.0 also provides specific requirements for Rich Internet Applications. It 
 
 Refer to [WAI Rich Internet Applications (WAI-ARIA)](https://www.w3.org/TR/wai-aria-1.1/) for more information.
 
-An [Accessibility Checklist](TBC) has been created to help you self-assess accessibility compliancy against WCAG A and AA level checkpoints.
+An [Accessibility Checklist](https://github.com/qld-gov-au/swe/blob/master/WCAG-checklist.xlsx?raw=true) has been created to help you self-assess accessibility compliancy against WCAG A and AA level checkpoints.
 
 # 3.0	URL and filename design guidelines
 
