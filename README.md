@@ -6,7 +6,6 @@ The **Single Website Experience (SWE)** is a frontend framework used for www.qld
 
 * [SWE Product definition (draft)](product-definition.md)
 * [How to implement metadata on SWE pages](https://github.com/qld-gov-au/swe/blob/master/metadata.md)
-* [SWE Pattern library](https://github.com/qld-gov-au/pattern-library)
 * [SWE 3 Page models and templates](https://qld-gov-au.github.io/web-template-release/index.html)
 * [Accessibility Checklist](https://github.com/qld-gov-au/swe/blob/master/WCAG-checklist.xlsx?raw=true)
 
@@ -31,7 +30,9 @@ The SWE has two versions.
   - [SWE 3 Page models and templates](https://qld-gov-au.github.io/web-template-release/index.html)
 
 - **SWE 2** is a frontend framework used for www.qld.gov.au
+	- SWE 2 **will be deprecated June 2019**
 	- SWE 2 is **not supported** for new websites
-	- SWE 2 **will be deprecated June 2019**  
+	- [SWE Pattern library](https://github.com/qld-gov-au/pattern-library)
+	
   - [SWE 2 Page models and templates](https://qld-gov-au.github.io/swe_template/)
 	
