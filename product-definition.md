@@ -24,7 +24,7 @@ The requirements included in this document have been developed in consultation w
 
 ## 1.2	Where to find help
 
-Should an agency require support and guidance on the use of the Franachise Website Standard, they are encouraged to contact Queensland Online. Such queries could include:
+Should an agency require support and guidance on the use of the Franachise Website Standard, they are encouraged to contact Queensland Online at [onlineproducts@smartservice.qld.gov.au](mailto:onlineproducts@smartservice.qld.gov.au). Such queries could include:
 
 *	Variations to a particular requirement within the Franchise Website Standard
 *	Requesting a variation to a CSS element
