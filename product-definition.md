@@ -370,9 +370,6 @@ Ref | Component | Presence | Flexibility
 
 **Future use of the page model**
 
-* The User interface (UI CoP) will review the page model’s use in January 2018 and discuss proposed changes. 
-	+	Changes agreed by the group will be made to the template and these instructions. 
-	+	Urgent changes can be made before then but a review of suggestions and non-urgent changes will be done in early 2018.) 
 * The UI CoP will review the page model and the register on an ongoing basis to ensure that page models with an end date (i.e. tied to short-term campaigns) are decommissioned.
 
 ## 7.6	Continuous improvement of the page model
