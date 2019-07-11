@@ -30,8 +30,8 @@ The SWE has two versions.
   - [SWE 3 Page models and templates](https://qld-gov-au.github.io/web-template-release/index.html)
 
 - **SWE 2** is a frontend framework used for www.qld.gov.au
-	- SWE 2 **will be deprecated June 2019**
-	- SWE 2 is **not supported** for new websites
+	- SWE 2 **is no longer supported**
+	- SWE2 will have no further bug fixes  or enhancements. SWE2 assets will remain available for existing websites while agencies transition to SWE3.
 	- [SWE Pattern library](https://github.com/qld-gov-au/pattern-library)
 	
   - [SWE 2 Page models and templates](https://qld-gov-au.github.io/swe_template/)
