@@ -19,8 +19,6 @@ The SWE framework is built on top of these existing documents:
 
 ## Versions
 
-The SWE has two versions. 
-
 - **SWE 3** is a rapid protoyping framework, built on bootstrap 3
 	- SWE 3 is used for all new websites
 	- SWE 3 is the template used for new www.qld.gov.au federated access sites & pages
