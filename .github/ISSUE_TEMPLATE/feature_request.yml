@@ -1,4 +1,4 @@
-name: Propose a new feature or improvement
+name: Propose a new feature
 description: Suggest a new idea for the SWE
 body:
   - type: input
