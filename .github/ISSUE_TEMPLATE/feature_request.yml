@@ -1,0 +1,31 @@
+name: Propose a new feature or improvement
+description: Suggest a new idea for the SWE
+body:
+  - type: input
+    id: what
+    attributes:
+      label: What
+      description: Give a brief description of the style, component, pattern or template you want to propose.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why
+      description: Explain why you think this should be added to the SWE, including evidence of user needs. Add any helpful context or screenshots.
+    validations:
+      required: true
+  - type: textarea
+    id: anything-else
+    attributes:
+      label: Anything else
+      description: Include links to any examples, research or code to support your proposal, if available.
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Please confirm the following
+      options:
+        - label: I checked the list of [current issues](https://github.com/qld-gov-au/swe/issues) for duplicate ideas or improvements.
+          required: true
