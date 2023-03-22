@@ -27,5 +27,5 @@ body:
     attributes:
       label: Please confirm the following
       options:
-        - label: I checked the list of [current issues](https://github.com/qld-gov-au/swe/issues) for duplicate ideas or improvements.
+        - label: I checked the list of [current issues](https://github.com/qld-gov-au/swe/issues) for duplicate ideas or requests.
           required: true
