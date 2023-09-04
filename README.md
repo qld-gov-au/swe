@@ -19,4 +19,4 @@ Read more about [how you can contribute](https://www.forgov.qld.gov.au/informati
 If you have any questions about this repository you can:
 - comment on the [issues](https://github.com/orgs/qld-gov-au/projects/3)
 - use the SWE channel in the [user interface community of practice](https://www.forgov.qld.gov.au/news-events-and-consultation/find-knowledge-sharing-groups/user-interface-community-of-practice) Teams
-- email [Queensland Online](online@qld.gov.au)
+- email Queensland Online at [online@qld.gov.au](mailto:online@qld.gov.au)
